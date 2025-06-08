@@ -1,0 +1,2009 @@
+[
+  {
+    "Common Name": "Abbott's Babbler bird",
+    "Scientific Name": "Malacocincla abbotti",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Pellorneidae",
+      "Genus": "Malacocincla",
+      "Species": "M. abbotti"
+    }
+  },
+  {
+    "Common Name": "Alexandrine Parakeet bird",
+    "Scientific Name": "Psittacula eupatria",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Psittaciformes",
+      "Family": "Psittaculidae",
+      "Genus": "Psittacula",
+      "Species": "P. eupatria"
+    }
+  },
+  {
+    "Common Name": "Asian Brown Flycatcher bird",
+    "Scientific Name": "Muscicapa dauurica",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Muscicapidae",
+      "Genus": "Muscicapa",
+      "Species": "M. dauurica"
+    }
+  },
+  {
+    "Common Name": "Asian Green Bee Eater bird",
+    "Scientific Name": "Merops orientalis",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Coraciiformes",
+      "Family": "Meropidae",
+      "Genus": "Merops",
+      "Species": "M. orientalis"
+    }
+  },
+  {
+    "Common Name": "Asian Koel bird",
+    "Scientific Name": "Eudynamys scolopaceus",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Cuculiformes",
+      "Family": "Cuculidae",
+      "Genus": "Eudynamys",
+      "Species": "E. scolopaceus"
+    }
+  },
+  {
+    "Common Name": "Asian Openbill Stork bird",
+    "Scientific Name": "Anastomus oscitans",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Ciconiiformes",
+      "Family": "Ciconiidae",
+      "Genus": "Anastomus",
+      "Species": "A. oscitans"
+    }
+  },
+  {
+    "Common Name": "Avadavat bird",
+    "Scientific Name": "Amandava amandava",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Estrildidae",
+      "Genus": "Amandava",
+      "Species": "A. amandava"
+    }
+  },
+  {
+    "Common Name": "Barn Swallow bird",
+    "Scientific Name": "Hirundo rustica",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Hirundinidae",
+      "Genus": "Hirundo",
+      "Species": "H. rustica"
+    }
+  },
+  {
+    "Common Name": "Baya Weaver bird",
+    "Scientific Name": "Ploceus philippinus",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Ploceidae",
+      "Genus": "Ploceus",
+      "Species": "P. philippinus"
+    }
+  },
+  {
+    "Common Name": "Black Drongo bird",
+    "Scientific Name": "Dicrurus macrocercus",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Dicruridae",
+      "Genus": "Dicrurus",
+      "Species": "D. macrocercus"
+    }
+  },
+  {
+    "Common Name": "Black Francolin bird",
+    "Scientific Name": "Francolinus francolinus",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Galliformes",
+      "Family": "Phasianidae",
+      "Genus": "Francolinus",
+      "Species": "F. francolinus"
+    }
+  },
+  {
+    "Common Name": "Black-headed Ibis bird",
+    "Scientific Name": "Threskiornis melanocephalus",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Pelecaniformes",
+      "Family": "Threskiornithidae",
+      "Genus": "Threskiornis",
+      "Species": "T. melanocephalus"
+    }
+  },
+  {
+    "Common Name": "Black-hooded Oriole bird",
+    "Scientific Name": "Oriolus xanthornus",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Oriolidae",
+      "Genus": "Oriolus",
+      "Species": "O. xanthornus"
+    }
+  },
+  {
+    "Common Name": "Black-throated Munia bird",
+    "Scientific Name": "Lonchura kelaarti",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Estrildidae",
+      "Genus": "Lonchura",
+      "Species": "L. kelaarti"
+    }
+  },
+  {
+    "Common Name": "Black-throated Sunbird bird",
+    "Scientific Name": "Aethopyga saturata",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Nectariniidae",
+      "Genus": "Aethopyga",
+      "Species": "A. saturata"
+    }
+  },
+  {
+    "Common Name": "Booted Eagle bird",
+    "Scientific Name": "Hieraaetus pennatus",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Accipitriformes",
+      "Family": "Accipitridae",
+      "Genus": "Hieraaetus",
+      "Species": "H. pennatus"
+    }
+  },
+  {
+    "Common Name": "Brahminy Kite bird",
+    "Scientific Name": "Haliastur indus",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Accipitriformes",
+      "Family": "Accipitridae",
+      "Genus": "Haliastur",
+      "Species": "H. indus"
+    }
+  },
+  {
+    "Common Name": "Brown-fronted Woodpecker bird",
+    "Scientific Name": "Dendrocopos auriceps",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Piciformes",
+      "Family": "Picidae",
+      "Genus": "Dendrocopos",
+      "Species": "D. auriceps"
+    }
+  },
+  {
+    "Common Name": "Brown-headed Barbet bird",
+    "Scientific Name": "Psilopogon zeylanicus",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Piciformes",
+      "Family": "Megalaimidae",
+      "Genus": "Psilopogon",
+      "Species": "P. zeylanicus"
+    }
+  },
+  {
+    "Common Name": "Cattle Egret bird",
+    "Scientific Name": "Bubulcus ibis",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Pelecaniformes",
+      "Family": "Ardeidae",
+      "Genus": "Bubulcus",
+      "Species": "B. ibis"
+    }
+  },
+  {
+    "Common Name": "Chestnut-bellied Nuthatch bird",
+    "Scientific Name": "Sitta castanea",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Sittidae",
+      "Genus": "Sitta",
+      "Species": "S. castanea"
+    }
+  },
+  {
+    "Common Name": "Cinereous Tit bird",
+    "Scientific Name": "Parus cinereus",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Paridae",
+      "Genus": "Parus",
+      "Species": "P. cinereus"
+    }
+  },
+  {
+    "Common Name": "Common Flameback bird",
+    "Scientific Name": "Dinopium javanense",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Piciformes",
+      "Family": "Picidae",
+      "Genus": "Dinopium",
+      "Species": "D. javanense"
+    }
+  },
+  {
+    "Common Name": "Common Iora bird",
+    "Scientific Name": "Aegithina tiphia",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Aegithinidae",
+      "Genus": "Aegithina",
+      "Species": "A. tiphia"
+    }
+  },
+  {
+    "Common Name": "Common Kingfisher bird",
+    "Scientific Name": "Alcedo atthis",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Coraciiformes",
+      "Family": "Alcedinidae",
+      "Genus": "Alcedo",
+      "Species": "A. atthis"
+    }
+  },
+  {
+    "Common Name": "Common Myna bird",
+    "Scientific Name": "Acridotheres tristis",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Sturnidae",
+      "Genus": "Acridotheres",
+      "Species": "A. tristis"
+    }
+  },
+  {
+    "Common Name": "Common Rosefinch bird",
+    "Scientific Name": "Carpodacus erythrinus",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Fringillidae",
+      "Genus": "Carpodacus",
+      "Species": "C. erythrinus"
+    }
+  },
+  {
+    "Common Name": "Coppersmith Barbet bird",
+    "Scientific Name": "Psilopogon haemacephalus",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Piciformes",
+      "Family": "Megalaimidae",
+      "Genus": "Psilopogon",
+      "Species": "P. haemacephalus"
+    }
+  },
+  {
+    "Common Name": "Crested Serpent Eagle bird",
+    "Scientific Name": "Spilornis cheela",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Accipitriformes",
+      "Family": "Accipitridae",
+      "Genus": "Spilornis",
+      "Species": "S. cheela"
+    }
+  },
+  {
+    "Common Name": "Crimson Sunbird bird",
+    "Scientific Name": "Aethopyga siparaja",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Nectariniidae",
+      "Genus": "Aethopyga",
+      "Species": "A. siparaja"
+    }
+  },
+  {
+    "Common Name": "Darjeeling Woodpecker bird",
+    "Scientific Name": "Dendrocopos darjellensis",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Piciformes",
+      "Family": "Picidae",
+      "Genus": "Dendrocopos",
+      "Species": "D. darjellensis"
+    }
+  },
+  {
+    "Common Name": "Daurian Redstart bird",
+    "Scientific Name": "Phoenicurus auroreus",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Muscicapidae",
+      "Genus": "Phoenicurus",
+      "Species": "P. auroreus"
+    }
+  },
+  {
+    "Common Name": "Demoiselle Crane bird",
+    "Scientific Name": "Anthropoides virgo",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Gruiformes",
+      "Family": "Gruidae",
+      "Genus": "Anthropoides",
+      "Species": "A. virgo"
+    }
+  },
+  {
+    "Common Name": "Eurasian Collared Dove bird",
+    "Scientific Name": "Streptopelia decaocto",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Columbiformes",
+      "Family": "Columbidae",
+      "Genus": "Streptopelia",
+      "Species": "S. decaocto"
+    }
+  },
+  {
+    "Common Name": "Fire-tailed Sunbird bird",
+    "Scientific Name": "Aethopyga ignicauda",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Nectariniidae",
+      "Genus": "Aethopyga",
+      "Species": "A. ignicauda"
+    }
+  },
+  {
+    "Common Name": "Forest Wagtail bird",
+    "Scientific Name": "Dendronanthus indicus",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Motacillidae",
+      "Genus": "Dendronanthus",
+      "Species": "D. indicus"
+    }
+  },
+  {
+    "Common Name": "Gray Wagtail bird",
+    "Scientific Name": "Motacilla cinerea",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Motacillidae",
+      "Genus": "Motacilla",
+      "Species": "M. cinerea"
+    }
+  },
+  {
+    "Common Name": "Great Cormorant bird",
+    "Scientific Name": "Phalacrocorax carbo",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Suliformes",
+      "Family": "Phalacrocoracidae",
+      "Genus": "Phalacrocorax",
+      "Species": "P. carbo"
+    }
+  },
+  {
+    "Common Name": "Greater Coucal bird",
+    "Scientific Name": "Centropus sinensis",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Cuculiformes",
+      "Family": "Cuculidae",
+      "Genus": "Centropus",
+      "Species": "C. sinensis"
+    }
+  },
+  {
+    "Common Name": "Greater Flameback bird",
+    "Scientific Name": "Chrysocolaptes guttacristatus",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Piciformes",
+      "Family": "Picidae",
+      "Genus": "Chrysocolaptes",
+      "Species": "C. guttacristatus"
+    }
+  },
+  {
+    "Common Name": "Green Bee-eater bird",
+    "Scientific Name": "Merops orientalis",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Coraciiformes",
+      "Family": "Meropidae",
+      "Genus": "Merops",
+      "Species": "M. orientalis"
+    }
+  },
+  {
+    "Common Name": "Grey-throated Martin bird",
+    "Scientific Name": "Riparia chinensis",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Hirundinidae",
+      "Genus": "Riparia",
+      "Species": "R. chinensis"
+    }
+  },
+  {
+    "Common Name": "Heart-spotted Woodpecker bird",
+    "Scientific Name": "Hemicircus canente",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Piciformes",
+      "Family": "Picidae",
+      "Genus": "Hemicircus",
+      "Species": "H. canente"
+    }
+  },
+  {
+    "Common Name": "Himalayan Bluetail bird",
+    "Scientific Name": "Tarsiger rufilatus",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Muscicapidae",
+      "Genus": "Tarsiger",
+      "Species": "T. rufilatus"
+    }
+  },
+  {
+    "Common Name": "Himalayan Flameback bird",
+    "Scientific Name": "Dinopium shorii",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Piciformes",
+      "Family": "Picidae",
+      "Genus": "Dinopium",
+      "Species": "D. shorii"
+    }
+  },
+  {
+    "Common Name": "Himalayan Monal bird",
+    "Scientific Name": "Lophophorus impejanus",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Galliformes",
+      "Family": "Phasianidae",
+      "Genus": "Lophophorus",
+      "Species": "L. impejanus"
+    }
+  },
+  {
+    "Common Name": "Himalayan Woodpecker bird",
+    "Scientific Name": "Dendrocopos himalayensis",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Piciformes",
+      "Family": "Picidae",
+      "Genus": "Dendrocopos",
+      "Species": "D. himalayensis"
+    }
+  },
+  {
+    "Common Name": "Hooded Pitta bird",
+    "Scientific Name": "Pitta sordida",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Pittidae",
+      "Genus": "Pitta",
+      "Species": "P. sordida"
+    }
+  },
+  {
+    "Common Name": "Hoopoes bird",
+    "Scientific Name": "Upupa epops",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Bucerotiformes",
+      "Family": "Upupidae",
+      "Genus": "Upupa",
+      "Species": "U. epops"
+    }
+  },
+  {
+    "Common Name": "House Crow bird",
+    "Scientific Name": "Corvus splendens",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Corvidae",
+      "Genus": "Corvus",
+      "Species": "C. splendens"
+    }
+  },
+  {
+    "Common Name": "House Sparrow bird",
+    "Scientific Name": "Passer domesticus",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Passeridae",
+      "Genus": "Passer",
+      "Species": "P. domesticus"
+    }
+  },
+  {
+    "Common Name": "Indian Blue Robin bird",
+    "Scientific Name": "Larvivora brunnea",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Muscicapidae",
+      "Genus": "Larvivora",
+      "Species": "L. brunnea"
+    }
+  },
+  {
+    "Common Name": "Indian Bush Lark bird",
+    "Scientific Name": "Mirafra erythroptera",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Alaudidae",
+      "Genus": "Mirafra",
+      "Species": "M. erythroptera"
+    }
+  },
+  {
+    "Common Name": "Indian Bustard bird",
+    "Scientific Name": "Ardeotis nigriceps",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Otidiformes",
+      "Family": "Otididae",
+      "Genus": "Ardeotis",
+      "Species": "A. nigriceps"
+    }
+  },
+  {
+    "Common Name": "Indian Golden Oriole bird",
+    "Scientific Name": "Oriolus kundoo",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Oriolidae",
+      "Genus": "Oriolus",
+      "Species": "O. kundoo"
+    }
+  },
+  {
+    "Common Name": "Indian Grey Hornbill bird",
+    "Scientific Name": "Ocyceros birostris",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Bucerotiformes",
+      "Family": "Bucerotidae",
+      "Genus": "Ocyceros",
+      "Species": "O. birostris"
+    }
+  },
+  {
+    "Common Name": "Indian Nuthatch bird",
+    "Scientific Name": "Sitta castanea",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Sittidae",
+      "Genus": "Sitta",
+      "Species": "S. castanea"
+    }
+  },
+  {
+    "Common Name": "Indian Paradise Flycatcher bird",
+    "Scientific Name": "Terpsiphone paradisi",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Monarchidae",
+      "Genus": "Terpsiphone",
+      "Species": "T. paradisi"
+    }
+  },
+  {
+    "Common Name": "Indian Pitta bird",
+    "Scientific Name": "Pitta brachyura",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Pittidae",
+      "Genus": "Pitta",
+      "Species": "P. brachyura"
+    }
+  },
+  {
+    "Common Name": "Indian Pond Heron bird",
+    "Scientific Name": "Ardeola grayii",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Pelecaniformes",
+      "Family": "Ardeidae",
+      "Genus": "Ardeola",
+      "Species": "A. grayii"
+    }
+  },
+  {
+    "Common Name": "Indian Robin bird",
+    "Scientific Name": "Copsychus fulicatus",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Muscicapidae",
+      "Genus": "Copsychus",
+      "Species": "C. fulicatus"
+    }
+  },
+  {
+    "Common Name": "Indian Roller bird",
+    "Scientific Name": "Coracias benghalensis",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Coraciiformes",
+      "Family": "Coraciidae",
+      "Genus": "Coracias",
+      "Species": "C. benghalensis"
+    }
+  },
+  {
+    "Common Name": "Indian Scops Owl bird",
+    "Scientific Name": "Otus bakkamoena",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Strigiformes",
+      "Family": "Strigidae",
+      "Genus": "Otus",
+      "Species": "O. bakkamoena"
+    }
+  },
+  {
+    "Common Name": "Indian Silverbill bird",
+    "Scientific Name": "Euodice malabarica",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Estrildidae",
+      "Genus": "Euodice",
+      "Species": "E. malabarica"
+    }
+  },
+  {
+    "Common Name": "Indian Skimmer bird",
+    "Scientific Name": "Rynchops albicollis",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Charadriiformes",
+      "Family": "Rynchopidae",
+      "Genus": "Rynchops",
+      "Species": "R. albicollis"
+    }
+  },
+  {
+    "Common Name": "Indian Spotted Eagle bird",
+    "Scientific Name": "Clanga hastata",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Accipitriformes",
+      "Family": "Accipitridae",
+      "Genus": "Clanga",
+      "Species": "C. hastata"
+    }
+  },
+  {
+    "Common Name": "Indian Vulture bird",
+    "Scientific Name": "Gyps indicus",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Accipitriformes",
+      "Family": "Accipitridae",
+      "Genus": "Gyps",
+      "Species": "G. indicus"
+    }
+  },
+  {
+    "Common Name": "Jerdon's Bush Lark bird",
+    "Scientific Name": "Mirafra affinis",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Alaudidae",
+      "Genus": "Mirafra",
+      "Species": "M. affinis"
+    }
+  },
+  {
+    "Common Name": "Jungle Babbler bird",
+    "Scientific Name": "Argya striata",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Leiothrichidae",
+      "Genus": "Argya",
+      "Species": "A. striata"
+    }
+  },
+  {
+    "Common Name": "Large Grey Babbler bird",
+    "Scientific Name": "Argya malcolmi",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Leiothrichidae",
+      "Genus": "Argya",
+      "Species": "A. malcolmi"
+    }
+  },
+  {
+    "Common Name": "Lesser Adjutant bird",
+    "Scientific Name": "Leptoptilos javanicus",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Ciconiiformes",
+      "Family": "Ciconiidae",
+      "Genus": "Leptoptilos",
+      "Species": "L. javanicus"
+    }
+  },
+  {
+    "Common Name": "Lesser Yellownape bird",
+    "Scientific Name": "Picus chlorolophus",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Piciformes",
+      "Family": "Picidae",
+      "Genus": "Picus",
+      "Species": "P. chlorolophus"
+    }
+  },
+  {
+    "Common Name": "Little Egret bird",
+    "Scientific Name": "Egretta garzetta",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Pelecaniformes",
+      "Family": "Ardeidae",
+      "Genus": "Egretta",
+      "Species": "E. garzetta"
+    }
+  },
+  {
+    "Common Name": "Little Spiderhunter bird",
+    "Scientific Name": "Arachnothera longirostra",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Nectariniidae",
+      "Genus": "Arachnothera",
+      "Species": "A. longirostra"
+    }
+  },
+  {
+    "Common Name": "Loten's Sunbird bird",
+    "Scientific Name": "Cinnyris lotenius",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Nectariniidae",
+      "Genus": "Cinnyris",
+      "Species": "C. lotenius"
+    }
+  },
+  {
+    "Common Name": "Malabar Barbet bird",
+    "Scientific Name": "Psilopogon malabaricus",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Piciformes",
+      "Family": "Megalaimidae",
+      "Genus": "Psilopogon",
+      "Species": "P. malabaricus"
+    }
+  },
+  {
+    "Common Name": "Malabar Hornbill bird",
+    "Scientific Name": "Anthracoceros coronatus",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Bucerotiformes",
+      "Family": "Bucerotidae",
+      "Genus": "Anthracoceros",
+      "Species": "A. coronatus"
+    }
+  },
+  {
+    "Common Name": "Malabar Lark bird",
+    "Scientific Name": "Galerida malabarica",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Alaudidae",
+      "Genus": "Galerida",
+      "Species": "G. malabarica"
+    }
+  },
+  {
+    "Common Name": "Malachite Kingfisher bird",
+    "Scientific Name": "Corythornis cristatus",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Coraciiformes",
+      "Family": "Alcedinidae",
+      "Genus": "Corythornis",
+      "Species": "C. cristatus"
+    }
+  },
+  {
+    "Common Name": "Nicobar Pigeon bird",
+    "Scientific Name": "Caloenas nicobarica",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Columbiformes",
+      "Family": "Columbidae",
+      "Genus": "Caloenas",
+      "Species": "C. nicobarica"
+    }
+  },
+  {
+    "Common Name": "Nilgiri Flowerpecker bird",
+    "Scientific Name": "Dicaeum concolor",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Dicaeidae",
+      "Genus": "Dicaeum",
+      "Species": "D. concolor"
+    }
+  },
+  {
+    "Common Name": "Nilgiri Flycatcher bird",
+    "Scientific Name": "Eumyias albicaudatus",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Muscicapidae",
+      "Genus": "Eumyias",
+      "Species": "E. albicaudatus"
+    }
+  },
+  {
+    "Common Name": "Nilgiri Laughingthrush bird",
+    "Scientific Name": "Montecincla jerdoni",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Leiothrichidae",
+      "Genus": "Montecincla",
+      "Species": "M. jerdoni"
+    }
+  },
+  {
+    "Common Name": "Northern Lapwing bird",
+    "Scientific Name": "Vanellus vanellus",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Charadriiformes",
+      "Family": "Charadriidae",
+      "Genus": "Vanellus",
+      "Species": "V. vanellus"
+    }
+  },
+  {
+    "Common Name": "Oriental Bay Owl bird",
+    "Scientific Name": "Phodilus badius",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Strigiformes",
+      "Family": "Tytonidae",
+      "Genus": "Phodilus",
+      "Species": "P. badius"
+    }
+  },
+  {
+    "Common Name": "Oriental Skylark bird",
+    "Scientific Name": "Alauda gulgula",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Alaudidae",
+      "Genus": "Alauda",
+      "Species": "A. gulgula"
+    }
+  },
+  {
+    "Common Name": "Painted Stork bird",
+    "Scientific Name": "Mycteria leucocephala",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Ciconiiformes",
+      "Family": "Ciconiidae",
+      "Genus": "Mycteria",
+      "Species": "M. leucocephala"
+    }
+  },
+  {
+    "Common Name": "Pale-billed Flowerpecker bird",
+    "Scientific Name": "Dicaeum erythrorhynchos",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Dicaeidae",
+      "Genus": "Dicaeum",
+      "Species": "D. erythrorhynchos"
+    }
+  },
+  {
+    "Common Name": "Peacock bird",
+    "Scientific Name": "Pavo cristatus",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Galliformes",
+      "Family": "Phasianidae",
+      "Genus": "Pavo",
+      "Species": "P. cristatus"
+    }
+  },
+  {
+    "Common Name": "Pied Kingfisher bird",
+    "Scientific Name": "Ceryle rudis",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Coraciiformes",
+      "Family": "Alcedinidae",
+      "Genus": "Ceryle",
+      "Species": "C. rudis"
+    }
+  },
+
+
+
+  {
+    "Common Name": "Purple-rumped Sunbird",
+    "Scientific Name": "Leptocoma zeylonica",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Nectariniidae",
+      "Genus": "Leptocoma",
+      "Species": "L. zeylonica"
+    }
+  },
+  {
+    "Common Name": "Red Avadavat",
+    "Scientific Name": "Amandava amandava",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Estrildidae",
+      "Genus": "Amandava",
+      "Species": "A. amandava"
+    }
+  },
+{
+    "Common Name": "Red-breasted Flycatcher bird",
+    "Scientific Name": "Ficedula parva",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Muscicapidae",
+      "Genus": "Ficedula",
+      "Species": "F. parva"
+    }
+  },
+  {
+    "Common Name": "Red-rumped Swallow bird",
+    "Scientific Name": "Cecropis daurica",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Hirundinidae",
+      "Genus": "Cecropis",
+      "Species": "C. daurica"
+    }
+  },
+  {
+    "Common Name": "Red-vented Bulbul bird",
+    "Scientific Name": "Pycnonotus cafer",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Pycnonotidae",
+      "Genus": "Pycnonotus",
+      "Species": "P. cafer"
+    }
+  },
+  {
+    "Common Name": "Red-wattled Lapwing bird",
+    "Scientific Name": "Vanellus indicus",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Charadriiformes",
+      "Family": "Charadriidae",
+      "Genus": "Vanellus",
+      "Species": "V. indicus"
+    }
+  },
+  {
+    "Common Name": "Rose-ringed Parakeet bird",
+    "Scientific Name": "Psittacula krameri",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Psittaciformes",
+      "Family": "Psittaculidae",
+      "Genus": "Psittacula",
+      "Species": "P. krameri"
+    }
+  },
+  {
+    "Common Name": "Ruddy Shelduck bird",
+    "Scientific Name": "Tadorna ferruginea",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Anseriformes",
+      "Family": "Anatidae",
+      "Genus": "Tadorna",
+      "Species": "T. ferruginea"
+    }
+  },
+  {
+    "Common Name": "Ruddy Kingfisher bird",
+    "Scientific Name": "Halcyon coromanda",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Coraciiformes",
+      "Family": "Alcedinidae",
+      "Genus": "Halcyon",
+      "Species": "H. coromanda"
+    }
+  },
+  {
+    "Common Name": "Rufous Babbler bird",
+    "Scientific Name": "Argya subrufa",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Leiothrichidae",
+      "Genus": "Argya",
+      "Species": "A. subrufa"
+    }
+  },
+  {
+    "Common Name": "Rufous Treepie bird",
+    "Scientific Name": "Dendrocitta vagabunda",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Corvidae",
+      "Genus": "Dendrocitta",
+      "Species": "D. vagabunda"
+    }
+  },
+  {
+    "Common Name": "Rufous Woodpecker bird",
+    "Scientific Name": "Micropternus brachyurus",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Piciformes",
+      "Family": "Picidae",
+      "Genus": "Micropternus",
+      "Species": "M. brachyurus"
+    }
+  },
+  {
+    "Common Name": "Rufous-bellied Woodpecker bird",
+    "Scientific Name": "Dendrocopos hyperythrus",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Piciformes",
+      "Family": "Picidae",
+      "Genus": "Dendrocopos",
+      "Species": "D. hyperythrus"
+    }
+  },
+  {
+    "Common Name": "Rufous-tailed Lark bird",
+    "Scientific Name": "Ammomanes phoenicurus",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Alaudidae",
+      "Genus": "Ammomanes",
+      "Species": "A. phoenicurus"
+    }
+  },
+  {
+    "Common Name": "Rusty-tailed Flycatcher bird",
+    "Scientific Name": "Muscicapa ruficauda",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Muscicapidae",
+      "Genus": "Muscicapa",
+      "Species": "M. ruficauda"
+    }
+  },
+  {
+    "Common Name": "Scaly-breasted Munia bird",
+    "Scientific Name": "Lonchura punctulata",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Estrildidae",
+      "Genus": "Lonchura",
+      "Species": "L. punctulata"
+    }
+  },
+  {
+    "Common Name": "Sand Lark bird",
+    "Scientific Name": "Alaudala raytal",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Alaudidae",
+      "Genus": "Alaudala",
+      "Species": "A. raytal"
+    }
+  },
+  {
+    "Common Name": "Sarus Crane bird",
+    "Scientific Name": "Antigone antigone",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Gruiformes",
+      "Family": "Gruidae",
+      "Genus": "Antigone",
+      "Species": "A. antigone"
+    }
+  },
+  {
+    "Common Name": "Shikra bird",
+    "Scientific Name": "Accipiter badius",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Accipitriformes",
+      "Family": "Accipitridae",
+      "Genus": "Accipiter",
+      "Species": "A. badius"
+    }
+  },
+  {
+    "Common Name": "Siberian Rubythroat bird",
+    "Scientific Name": "Calliope calliope",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Muscicapidae",
+      "Genus": "Calliope",
+      "Species": "C. calliope"
+    }
+  },
+  {
+    "Common Name": "Slaty-blue Flycatcher bird",
+    "Scientific Name": "Ficedula tricolor",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Muscicapidae",
+      "Genus": "Ficedula",
+      "Species": "F. tricolor"
+    }
+  },
+  {
+    "Common Name": "Snow Partridge bird",
+    "Scientific Name": "Lerwa lerwa",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Galliformes",
+      "Family": "Phasianidae",
+      "Genus": "Lerwa",
+      "Species": "L. lerwa"
+    }
+  },
+  {
+    "Common Name": "Spot-billed Pelican bird",
+    "Scientific Name": "Pelecanus philippensis",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Pelecaniformes",
+      "Family": "Pelecanidae",
+      "Genus": "Pelecanus",
+      "Species": "P. philippensis"
+    }
+  },
+  {
+    "Common Name": "Spotted Owlet bird",
+    "Scientific Name": "Athene brama",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Strigiformes",
+      "Family": "Strigidae",
+      "Genus": "Athene",
+      "Species": "A. brama"
+    }
+  },
+  {
+    "Common Name": "Stork-billed Kingfisher bird",
+    "Scientific Name": "Pelargopsis capensis",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Coraciiformes",
+      "Family": "Alcedinidae",
+      "Genus": "Pelargopsis",
+      "Species": "P. capensis"
+    }
+  },
+  {
+    "Common Name": "Streak-throated Swallow bird",
+    "Scientific Name": "Petrochelidon fluvicola",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Hirundinidae",
+      "Genus": "Petrochelidon",
+      "Species": "P. fluvicola"
+    }
+  },
+  {
+    "Common Name": "Streak-throated Woodpecker bird",
+    "Scientific Name": "Picus xanthopygaeus",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Piciformes",
+      "Family": "Picidae",
+      "Genus": "Picus",
+      "Species": "P. xanthopygaeus"
+    }
+  },
+  {
+    "Common Name": "Streaked Spiderhunter bird",
+    "Scientific Name": "Arachnothera magna",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Nectariniidae",
+      "Genus": "Arachnothera",
+      "Species": "A. magna"
+    }
+  },
+  {
+    "Common Name": "Streaked Weaver bird",
+    "Scientific Name": "Ploceus manyar",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Ploceidae",
+      "Genus": "Ploceus",
+      "Species": "P. manyar"
+    }
+  },
+  {
+    "Common Name": "Striped Tit-Babbler bird",
+    "Scientific Name": "Mixornis gularis",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Timaliidae",
+      "Genus": "Mixornis",
+      "Species": "M. gularis"
+    }
+  },
+  {
+    "Common Name": "Taiga Flycatcher bird",
+    "Scientific Name": "Ficedula albicilla",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Muscicapidae",
+      "Genus": "Ficedula",
+      "Species": "F. albicilla"
+    }
+  },
+  {
+    "Common Name": "Tailorbird",
+    "Scientific Name": "Orthotomus sutorius",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Cisticolidae",
+      "Genus": "Orthotomus",
+      "Species": "O. sutorius"
+    }
+  },
+  {
+    "Common Name": "Tawny-bellied Babbler bird",
+    "Scientific Name": "Dumetia hyperythra",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Timaliidae",
+      "Genus": "Dumetia",
+      "Species": "D. hyperythra"
+    }
+  },
+  {
+    "Common Name": "Thick-billed Flowerpecker bird",
+    "Scientific Name": "Dicaeum agile",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Dicaeidae",
+      "Genus": "Dicaeum",
+      "Species": "D. agile"
+    }
+  },
+  {
+    "Common Name": "Ultramarine Flycatcher bird",
+    "Scientific Name": "Ficedula superciliaris",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Muscicapidae",
+      "Genus": "Ficedula",
+      "Species": "F. superciliaris"
+    }
+  },
+  {
+    "Common Name": "Velvet-fronted Nuthatch bird",
+    "Scientific Name": "Sitta frontalis",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Sittidae",
+      "Genus": "Sitta",
+      "Species": "S. frontalis"
+    }
+  },
+  {
+    "Common Name": "Verditer Flycatcher bird",
+    "Scientific Name": "Eumyias thalassinus",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Muscicapidae",
+      "Genus": "Eumyias",
+      "Species": "E. thalassinus"
+    }
+  },
+  {
+    "Common Name": "Vigors's Sunbird bird",
+    "Scientific Name": "Aethopyga vigorsii",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Nectariniidae",
+      "Genus": "Aethopyga",
+      "Species": "A. vigorsii"
+    }
+  },
+  {
+    "Common Name": "White Breasted Waterhen bird",
+    "Scientific Name": "Amaurornis phoenicurus",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Gruiformes",
+      "Family": "Rallidae",
+      "Genus": "Amaurornis",
+      "Species": "A. phoenicurus"
+    }
+  },
+  {
+    "Common Name": "White Wagtail bird",
+    "Scientific Name": "Motacilla alba",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Motacillidae",
+      "Genus": "Motacilla",
+      "Species": "M. alba"
+    }
+  },
+  {
+    "Common Name": "White-bellied Blue Flycatcher bird",
+    "Scientific Name": "Cyornis pallipes",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Muscicapidae",
+      "Genus": "Cyornis",
+      "Species": "C. pallipes"
+    }
+  },
+  {
+    "Common Name": "White-breasted Kingfisher bird",
+    "Scientific Name": "Halcyon smyrnensis",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Coraciiformes",
+      "Family": "Alcedinidae",
+      "Genus": "Halcyon",
+      "Species": "H. smyrnensis"
+    }
+  },
+  {
+    "Common Name": "White-browed Fantail bird",
+    "Scientific Name": "Rhipidura aureola",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Rhipiduridae",
+      "Genus": "Rhipidura",
+      "Species": "R. aureola"
+    }
+  },
+  {
+    "Common Name": "White-browed Wagtail bird",
+    "Scientific Name": "Motacilla maderaspatensis",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Motacillidae",
+      "Genus": "Motacilla",
+      "Species": "M. maderaspatensis"
+    }
+  },
+  {
+    "Common Name": "White-cheeked Barbet bird",
+    "Scientific Name": "Psilopogon viridis",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Piciformes",
+      "Family": "Megalaimidae",
+      "Genus": "Psilopogon",
+      "Species": "P. viridis"
+    }
+  },
+  {
+    "Common Name": "White-naped Tit bird",
+    "Scientific Name": "Machlolophus nuchalis",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Paridae",
+      "Genus": "Machlolophus",
+      "Species": "M. nuchalis"
+    }
+  },
+  {
+    "Common Name": "White-rumped Munia bird",
+    "Scientific Name": "Lonchura striata",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Estrildidae",
+      "Genus": "Lonchura",
+      "Species": "L. striata"
+    }
+  },
+  {
+    "Common Name": "White-spotted Fantail bird",
+    "Scientific Name": "Rhipidura albogularis",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Rhipiduridae",
+      "Genus": "Rhipidura",
+      "Species": "R. albogularis"
+    }
+  },
+  {
+    "Common Name": "Wire-tailed Swallow bird",
+    "Scientific Name": "Hirundo smithii",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Hirundinidae",
+      "Genus": "Hirundo",
+      "Species": "H. smithii"
+    }
+  },
+  {
+    "Common Name": "Yellow-billed Babbler bird",
+    "Scientific Name": "Argya affinis",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Leiothrichidae",
+      "Genus": "Argya",
+      "Species": "A. affinis"
+    }
+  },
+  {
+    "Common Name": "Yellow-crowned Woodpecker bird",
+    "Scientific Name": "Leiopicus mahrattensis",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Piciformes",
+      "Family": "Picidae",
+      "Genus": "Leiopicus",
+      "Species": "L. mahrattensis"
+    }
+  },
+  {
+    "Common Name": "Yellow-eyed Babbler bird",
+    "Scientific Name": "Chrysomma sinense",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Passeriformes",
+      "Family": "Sylviidae",
+      "Genus": "Chrysomma",
+      "Species": "C. sinense"
+    }
+  },
+  {
+    "Common Name": "Yellow-footed Green Pigeon bird",
+    "Scientific Name": "Treron phoenicopterus",
+    "Classification": {
+      "Domain": "Eukaryota",
+      "Kingdom": "Animalia",
+      "Phylum": "Chordata",
+      "Class": "Aves",
+      "Order": "Columbiformes",
+      "Family": "Columbidae",
+      "Genus": "Treron",
+      "Species": "T. phoenicopterus"
+    }
+  }
+
+  
+]

@@ -1,0 +1,4456 @@
+[
+    {
+      "Common Name": "Ashy Prinia",
+      "Scientific Name": "Prinia socialis",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Cisticolidae",
+        "Genus": "Prinia",
+        "Species": "P. socialis"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Gardens, scrubland, open woodland, grasslands, cultivated areas",
+        "Diet": "Insects",
+        "Breeding": "March-September, builds small cup-shaped nests",
+        "Lifespan": "2-3 years",
+        "Size": "13-14 cm",
+        "Weight": "5-9 g"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Very Large",
+        "HabitatSpecialization": "Low",
+        "Population": "High"
+      }
+    },
+    {
+      "Common Name": "Ashy-Crowned Sparrow-Lark",
+      "Scientific Name": "Eremopterix griseus",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Alaudidae",
+        "Genus": "Eremopterix",
+        "Species": "E. griseus"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Open dry plains, scrubland, fallow fields",
+        "Diet": "Seeds and insects",
+        "Breeding": "February-May, ground nesting",
+        "Lifespan": "Data not readily available",
+        "Size": "13 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Large",
+        "HabitatSpecialization": "Low",
+        "Population": "High"
+      }
+    },
+    {
+      "Common Name": "Asian Brown Flycatcher",
+      "Scientific Name": "Muscicapa dauurica",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Muscicapidae",
+        "Genus": "Muscicapa",
+        "Species": "M. dauurica"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common Migrant",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Open forests, woodlands, gardens",
+        "Diet": "Insects, caught in flight",
+        "Breeding": "Summer in breeding grounds (not India)",
+        "Lifespan": "Data not readily available",
+        "Size": "12-14 cm",
+        "Weight": "10-15 g"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Large",
+        "HabitatSpecialization": "Low",
+        "Population": "High"
+      }
+    },
+    {
+      "Common Name": "Asian Koel",
+      "Scientific Name": "Eudynamys scolopaceus",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Cuculiformes",
+        "Family": "Cuculidae",
+        "Genus": "Eudynamys",
+        "Species": "E. scolopaceus"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Orchards, deciduous and evergreen forests, urban gardens",
+        "Diet": "Fruits, berries, insects (brood parasite)",
+        "Breeding": "March-August, lays eggs in crow nests",
+        "Lifespan": "Data not readily available",
+        "Size": "39-46 cm",
+        "Weight": "150-250 g"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Very Large",
+        "HabitatSpecialization": "Low",
+        "Population": "High"
+      }
+    },
+    {
+      "Common Name": "Asian Openbill",
+      "Scientific Name": "Anastomus oscitans",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Ciconiiformes",
+        "Family": "Ciconiidae",
+        "Genus": "Anastomus",
+        "Species": "A. oscitans"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Wetlands, paddy fields, shallow waters",
+        "Diet": "Molluscs, frogs, crabs, fish",
+        "Breeding": "Monsoon season, colonial breeder in trees",
+        "Lifespan": "Data not readily available",
+        "Size": "68-81 cm",
+        "Weight": "1-2 kg"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Very Large",
+        "HabitatSpecialization": "Medium",
+        "Population": "High"
+      }
+    },
+    {
+      "Common Name": "Barn Owl",
+      "Scientific Name": "Tyto alba",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Strigiformes",
+        "Family": "Tytonidae",
+        "Genus": "Tyto",
+        "Species": "T. alba"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Open country, farmland, urban areas, often near human habitation",
+        "Diet": "Small mammals (esp. rodents), birds, insects",
+        "Breeding": "Year-round, nests in cavities, barns, ruins",
+        "Lifespan": "Up to 2-4 years in wild, up to 20 in captivity",
+        "Size": "33-39 cm",
+        "Weight": "300-600 g"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Very Large",
+        "HabitatSpecialization": "Low",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Barn Swallow",
+      "Scientific Name": "Hirundo rustica",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Hirundinidae",
+        "Genus": "Hirundo",
+        "Species": "H. rustica"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common Winter Visitor/Passage Migrant",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Open country, farmland, grasslands, often near water bodies and human structures",
+        "Diet": "Flying insects",
+        "Breeding": "Summer in temperate regions (not India), nests are mud cups",
+        "Lifespan": "Up to 4 years",
+        "Size": "17-19 cm",
+        "Weight": "16-22 g"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Very Large",
+        "HabitatSpecialization": "Low",
+        "Population": "High"
+      }
+    },
+    {
+      "Common Name": "Baya Weaver",
+      "Scientific Name": "Ploceus philippinus",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Ploceidae",
+        "Genus": "Ploceus",
+        "Species": "P. philippinus"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Grasslands, cultivated areas, open country near water",
+        "Diet": "Seeds, grain, insects",
+        "Breeding": "Monsoon season, famous for elaborate woven nests",
+        "Lifespan": "Data not readily available",
+        "Size": "15 cm",
+        "Weight": "20-25 g"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Very Large",
+        "HabitatSpecialization": "Low",
+        "Population": "High"
+      }
+    },
+    {
+      "Common Name": "Bay-Backed Shrike",
+      "Scientific Name": "Lanius vittatus",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Laniidae",
+        "Genus": "Lanius",
+        "Species": "L. vittatus"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Open scrub, cultivation, thorny bushes",
+        "Diet": "Large insects, small vertebrates",
+        "Breeding": "March-August, nests in thorny bushes",
+        "Lifespan": "Data not readily available",
+        "Size": "17-19 cm",
+        "Weight": "20-30 g"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Large",
+        "HabitatSpecialization": "Low",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Black Drongo",
+      "Scientific Name": "Dicrurus macrocercus",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Dicruridae",
+        "Genus": "Dicrurus",
+        "Species": "D. macrocercus"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Open country, farmlands, urban areas, often near livestock",
+        "Diet": "Insects (esp. caught in flight), small birds, rodents",
+        "Breeding": "March-August, cup-shaped nest in tree forks",
+        "Lifespan": "Data not readily available",
+        "Size": "26-30 cm",
+        "Weight": "40-60 g"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Very Large",
+        "HabitatSpecialization": "Low",
+        "Population": "High"
+      }
+    },
+    {
+      "Common Name": "Black-Headed Ibis",
+      "Scientific Name": "Threskiornis melanocephalus",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Pelecaniformes",
+        "Family": "Threskiornithidae",
+        "Genus": "Threskiornis",
+        "Species": "T. melanocephalus"
+      },
+      "Conservation": {
+        "IUCN": "Near Threatened",
+        "IndiaStatus": "Fairly Common",
+        "PopulationTrend": "Decreasing"
+      },
+      "Ecology": {
+        "Habitat": "Wetlands, marshes, rice paddies, coastal areas",
+        "Diet": "Insects, frogs, fish, crustaceans",
+        "Breeding": "Monsoon and post-monsoon, colonial breeder in trees",
+        "Lifespan": "Data not readily available",
+        "Size": "65-76 cm",
+        "Weight": "1.3-2.5 kg"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Decline",
+        "CurrentAnnualTrend": "Declining",
+        "DistributionRangeSize": "Large",
+        "HabitatSpecialization": "Medium",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Black-Hooded Oriole",
+      "Scientific Name": "Oriolus xanthornus",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Oriolidae",
+        "Genus": "Oriolus",
+        "Species": "O. xanthornus"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Open broadleaf forests, gardens, plantations",
+        "Diet": "Fruits, berries, insects",
+        "Breeding": "April-July, cup-shaped nest in tree forks",
+        "Lifespan": "Data not readily available",
+        "Size": "23-25 cm",
+        "Weight": "60-80 g"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Very Large",
+        "HabitatSpecialization": "Low",
+        "Population": "High"
+      }
+    },
+    {
+      "Common Name": "Black-Lored Tit",
+      "Scientific Name": "Machlolophus aplonotus",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Paridae",
+        "Genus": "Machlolophus",
+        "Species": "M. aplonotus"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Open deciduous and mixed forests, gardens, scrub",
+        "Diet": "Insects, seeds, fruits",
+        "Breeding": "March-June, nests in tree holes or crevices",
+        "Lifespan": "Data not readily available",
+        "Size": "13-14 cm",
+        "Weight": "12-16 g"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Large",
+        "HabitatSpecialization": "Low",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Black-Rumped Flameback",
+      "Scientific Name": "Dinopium benghalense",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Piciformes",
+        "Family": "Picidae",
+        "Genus": "Dinopium",
+        "Species": "D. benghalense"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Open forests, woodlands, gardens, cultivated areas",
+        "Diet": "Insects, particularly ants and termites",
+        "Breeding": "February-July, nests in tree holes",
+        "Lifespan": "Data not readily available",
+        "Size": "26-29 cm",
+        "Weight": "80-120 g"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Very Large",
+        "HabitatSpecialization": "Low",
+        "Population": "High"
+      }
+    },
+    {
+      "Common Name": "Black-Throated Munia",
+      "Scientific Name": "Lonchura kelaarti",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Estrildidae",
+        "Genus": "Lonchura",
+        "Species": "L. kelaarti"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Fairly Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Grasslands, scrub, cultivated areas",
+        "Diet": "Grass seeds",
+        "Breeding": "Monsoon season, builds globular nests",
+        "Lifespan": "Data not readily available",
+        "Size": "11-12 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Medium",
+        "HabitatSpecialization": "Medium",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Black-Throated Sunbird",
+      "Scientific Name": "Aethopyga saturata",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Nectariniidae",
+        "Genus": "Aethopyga",
+        "Species": "A. saturata"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Forests, woodlands, gardens",
+        "Diet": "Nectar, insects, spiders",
+        "Breeding": "March-August, purse-shaped nest",
+        "Lifespan": "Data not readily available",
+        "Size": "14-16 cm",
+        "Weight": "6-9 g"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Large",
+        "HabitatSpecialization": "Low",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Black-Winged Kite",
+      "Scientific Name": "Elanus caeruleus",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Accipitriformes",
+        "Family": "Accipitridae",
+        "Genus": "Elanus",
+        "Species": "E. caeruleus"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Open country, grasslands, cultivated areas, scrubland",
+        "Diet": "Small rodents, large insects, small birds, lizards",
+        "Breeding": "Year-round, loose stick nest in trees",
+        "Lifespan": "Data not readily available",
+        "Size": "31-35 cm",
+        "Weight": "200-350 g"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Very Large",
+        "HabitatSpecialization": "Low",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Blue-Throated Barbet",
+      "Scientific Name": "Psilopogon asiaticus",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Piciformes",
+        "Family": "Megalaimidae",
+        "Genus": "Psilopogon",
+        "Species": "P. asiaticus"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Subtropical and tropical moist lowland forests, moist montane forests, gardens",
+        "Diet": "Fruits, insects",
+        "Breeding": "March-July, nests in tree holes",
+        "Lifespan": "Data not readily available",
+        "Size": "28-30 cm",
+        "Weight": "100-150 g"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Large",
+        "HabitatSpecialization": "Medium",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Booted Eagle",
+      "Scientific Name": "Hieraaetus pennatus",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Accipitriformes",
+        "Family": "Accipitridae",
+        "Genus": "Hieraaetus",
+        "Species": "H. pennatus"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Winter Visitor",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Woodlands, open forests, hillsides, agricultural areas",
+        "Diet": "Small birds, mammals, reptiles",
+        "Breeding": "Summer in breeding grounds (not India)",
+        "Lifespan": "Data not readily available",
+        "Size": "46-53 cm",
+        "Weight": "700-1000 g"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Large",
+        "HabitatSpecialization": "Medium",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Brahminy Kite",
+      "Scientific Name": "Haliastur indus",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Accipitriformes",
+        "Family": "Accipitridae",
+        "Genus": "Haliastur",
+        "Species": "H. indus"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Coastal areas, wetlands, rivers, lakes, often near human habitation",
+        "Diet": "Fish, crabs, insects, small vertebrates, carrion",
+        "Breeding": "November-April, stick nest in trees",
+        "Lifespan": "Data not readily available",
+        "Size": "45-51 cm",
+        "Weight": "300-600 g"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Very Large",
+        "HabitatSpecialization": "Low",
+        "Population": "High"
+      }
+    },
+    {
+      "Common Name": "Brown Shrike",
+      "Scientific Name": "Lanius cristatus",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Laniidae",
+        "Genus": "Lanius",
+        "Species": "L. cristatus"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common Winter Visitor",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Open country with scattered bushes, scrubland, gardens",
+        "Diet": "Large insects, small birds, lizards, impales prey on thorns",
+        "Breeding": "Summer in breeding grounds (not India)",
+        "Lifespan": "Data not readily available",
+        "Size": "17-20 cm",
+        "Weight": "20-30 g"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Large",
+        "HabitatSpecialization": "Low",
+        "Population": "High"
+      }
+    },
+    {
+      "Common Name": "Brown-Capped Pygmy Woodpecker",
+      "Scientific Name": "Yungipicus nanus",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Piciformes",
+        "Family": "Picidae",
+        "Genus": "Yungipicus",
+        "Species": "Y. nanus"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Dry deciduous forests, scrub jungles, gardens, plantations",
+        "Diet": "Insects from tree bark",
+        "Breeding": "March-May, nests in small tree holes",
+        "Lifespan": "Data not readily available",
+        "Size": "13 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Large",
+        "HabitatSpecialization": "Medium",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Brown-Fronted Woodpecker",
+      "Scientific Name": "Dendrocopos auriceps",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Piciformes",
+        "Family": "Picidae",
+        "Genus": "Dendrocopos",
+        "Species": "D. auriceps"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Fairly Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Pine and coniferous forests, oak forests, orchards",
+        "Diet": "Insects, nuts, berries",
+        "Breeding": "April-June, nests in tree holes",
+        "Lifespan": "Data not readily available",
+        "Size": "20-22 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Medium",
+        "HabitatSpecialization": "Medium",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Brown-Headed Barbet",
+      "Scientific Name": "Psilopogon zeylanicus",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Piciformes",
+        "Family": "Megalaimidae",
+        "Genus": "Psilopogon",
+        "Species": "P. zeylanicus"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Open woodlands, gardens, cultivated areas with trees",
+        "Diet": "Fruits, insects",
+        "Breeding": "February-May, nests in tree holes",
+        "Lifespan": "Data not readily available",
+        "Size": "27-29 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Large",
+        "HabitatSpecialization": "Low",
+        "Population": "High"
+      }
+    },
+    {
+      "Common Name": "Changeable Hawk-Eagle",
+      "Scientific Name": "Nisaetus cirrhatus",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Accipitriformes",
+        "Family": "Accipitridae",
+        "Genus": "Nisaetus",
+        "Species": "N. cirrhatus"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Forests, woodlands, cultivated areas with trees",
+        "Diet": "Birds, mammals, reptiles",
+        "Breeding": "December-April, large stick nest in tall trees",
+        "Lifespan": "Data not readily available",
+        "Size": "60-72 cm",
+        "Weight": "1.3-1.9 kg"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Very Large",
+        "HabitatSpecialization": "Medium",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Chestnut Munia",
+      "Scientific Name": "Lonchura atricapilla",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Estrildidae",
+        "Genus": "Lonchura",
+        "Species": "L. atricapilla"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Grasslands, cultivated areas, open country",
+        "Diet": "Seeds, grain",
+        "Breeding": "Monsoon season, globular nest in grass or low bushes",
+        "Lifespan": "Data not readily available",
+        "Size": "11-12 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Large",
+        "HabitatSpecialization": "Low",
+        "Population": "High"
+      }
+    },
+    {
+      "Common Name": "Chestnut-Bellied Nuthatch",
+      "Scientific Name": "Sitta castanea",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Sittidae",
+        "Genus": "Sitta",
+        "Species": "S. castanea"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Deciduous and mixed forests, gardens",
+        "Diet": "Insects, seeds, nuts",
+        "Breeding": "March-May, nests in tree holes",
+        "Lifespan": "Data not readily available",
+        "Size": "13 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Large",
+        "HabitatSpecialization": "Medium",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Cinereous Tit",
+      "Scientific Name": "Parus cinereus",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Paridae",
+        "Genus": "Parus",
+        "Species": "P. cinereus"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Open woodlands, gardens, cultivated areas",
+        "Diet": "Insects, seeds",
+        "Breeding": "March-June, nests in tree holes or crevices",
+        "Lifespan": "Data not readily available",
+        "Size": "13-14 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Very Large",
+        "HabitatSpecialization": "Low",
+        "Population": "High"
+      }
+    },
+    {
+      "Common Name": "Common Babbler",
+      "Scientific Name": "Argya caudata",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Leiothrichidae",
+        "Genus": "Argya",
+        "Species": "A. caudata"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Open scrub, arid and semi-arid regions, cultivated areas",
+        "Diet": "Insects, seeds, berries",
+        "Breeding": "Year-round, group nesting in thorny bushes",
+        "Lifespan": "Data not readily available",
+        "Size": "23-25 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Very Large",
+        "HabitatSpecialization": "Low",
+        "Population": "High"
+      }
+    },
+    {
+      "Common Name": "Common Flameback",
+      "Scientific Name": "Dinopium javanense",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Piciformes",
+        "Family": "Picidae",
+        "Genus": "Dinopium",
+        "Species": "D. javanense"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Open forests, woodlands, gardens, plantations",
+        "Diet": "Insects, particularly ants and termites",
+        "Breeding": "February-July, nests in tree holes",
+        "Lifespan": "Data not readily available",
+        "Size": "28-30 cm",
+        "Weight": "90-120 g"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Large",
+        "HabitatSpecialization": "Medium",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Common Kingfisher",
+      "Scientific Name": "Alcedo atthis",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Coraciiformes",
+        "Family": "Alcedinidae",
+        "Genus": "Alcedo",
+        "Species": "A. atthis"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Clear, slow-moving water bodies, rivers, lakes, ponds",
+        "Diet": "Small fish, aquatic insects, tadpoles",
+        "Breeding": "February-June, nests in tunnels dug into river banks",
+        "Lifespan": "Data not readily available",
+        "Size": "16-17 cm",
+        "Weight": "30-40 g"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Very Large",
+        "HabitatSpecialization": "Medium",
+        "Population": "High"
+      }
+    },
+    {
+      "Common Name": "Common Myna",
+      "Scientific Name": "Acridotheres tristis",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Sturnidae",
+        "Genus": "Acridotheres",
+        "Species": "A. tristis"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Very Common",
+        "PopulationTrend": "Increasing"
+      },
+      "Ecology": {
+        "Habitat": "Urban areas, agricultural lands, open woodlands",
+        "Diet": "Omnivorous - insects, fruits, grains, human food waste",
+        "Breeding": "Year-round, nests in cavities, buildings, tree holes",
+        "Lifespan": "4-12 years",
+        "Size": "23-26 cm",
+        "Weight": "80-140 g"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Increasing",
+        "DistributionRangeSize": "Very Large",
+        "HabitatSpecialization": "Low",
+        "Population": "Very High"
+      }
+    },
+    {
+      "Common Name": "Common Tailorbird",
+      "Scientific Name": "Orthotomus sutorius",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Cisticolidae",
+        "Genus": "Orthotomus",
+        "Species": "O. sutorius"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Gardens, scrubland, open woodland, cultivated areas",
+        "Diet": "Insects",
+        "Breeding": "March-December, stitches leaves to form a nest pocket",
+        "Lifespan": "Data not readily available",
+        "Size": "12-14 cm",
+        "Weight": "6-10 g"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Very Large",
+        "HabitatSpecialization": "Low",
+        "Population": "High"
+      }
+    },
+    {
+      "Common Name": "Coppersmith Barbet",
+      "Scientific Name": "Psilopogon haemacephalus",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Piciformes",
+        "Family": "Megalaimidae",
+        "Genus": "Psilopogon",
+        "Species": "P. haemacephalus"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Open woodlands, gardens, urban areas",
+        "Diet": "Fruits, berries, insects",
+        "Breeding": "February-May, nests in tree holes",
+        "Lifespan": "Data not readily available",
+        "Size": "15-17 cm",
+        "Weight": "30-50 g"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Very Large",
+        "HabitatSpecialization": "Low",
+        "Population": "High"
+      }
+    },
+    {
+      "Common Name": "Crested Serpent Eagle",
+      "Scientific Name": "Spilornis cheela",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Accipitriformes",
+        "Family": "Accipitridae",
+        "Genus": "Spilornis",
+        "Species": "S. cheela"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Forests, woodlands, dense scrub, often near water",
+        "Diet": "Snakes, lizards, frogs, small mammals, birds",
+        "Breeding": "December-April, stick nest in trees",
+        "Lifespan": "Data not readily available",
+        "Size": "55-75 cm",
+        "Weight": "0.8-1.8 kg"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Very Large",
+        "HabitatSpecialization": "Medium",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Crimson Sunbird",
+      "Scientific Name": "Aethopyga siparaja",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Nectariniidae",
+        "Genus": "Aethopyga",
+        "Species": "A. siparaja"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Forests, woodlands, gardens",
+        "Diet": "Nectar, insects, spiders",
+        "Breeding": "February-June, purse-shaped nest",
+        "Lifespan": "Data not readily available",
+        "Size": "11-13 cm",
+        "Weight": "5-8 g"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Large",
+        "HabitatSpecialization": "Low",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Dusky Crag Martin",
+      "Scientific Name": "Ptyonoprogne concolor",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Hirundinidae",
+        "Genus": "Ptyonoprogne",
+        "Species": "P. concolor"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Rocky cliffs, gorges, old buildings, dams",
+        "Diet": "Insects caught in flight",
+        "Breeding": "Year-round, mud nest attached to vertical surfaces",
+        "Lifespan": "Data not readily available",
+        "Size": "13 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Large",
+        "HabitatSpecialization": "Medium",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Eurasian Collared Dove",
+      "Scientific Name": "Streptopelia decaocto",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Columbiformes",
+        "Family": "Columbidae",
+        "Genus": "Streptopelia",
+        "Species": "S. decaocto"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Increasing"
+      },
+      "Ecology": {
+        "Habitat": "Urban and suburban areas, agricultural lands, parks",
+        "Diet": "Seeds, grains, shoots, invertebrates",
+        "Breeding": "Year-round, flimsy stick nest in trees or on buildings",
+        "Lifespan": "Up to 5 years in wild, up to 17 in captivity",
+        "Size": "31-34 cm",
+        "Weight": "125-240 g"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Increasing",
+        "CurrentAnnualTrend": "Increasing",
+        "DistributionRangeSize": "Very Large",
+        "HabitatSpecialization": "Low",
+        "Population": "Very High"
+      }
+    },
+    {
+      "Common Name": "Fire-Tailed Sunbird",
+      "Scientific Name": "Aethopyga ignicauda",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Nectariniidae",
+        "Genus": "Aethopyga",
+        "Species": "A. ignicauda"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Fairly Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Himalayan forests, rhododendron thickets",
+        "Diet": "Nectar, insects, spiders",
+        "Breeding": "April-July, purse-shaped nest",
+        "Lifespan": "Data not readily available",
+        "Size": "14-18 cm (including tail)",
+        "Weight": "6-10 g"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Medium",
+        "HabitatSpecialization": "Medium",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Great Cormorant",
+      "Scientific Name": "Phalacrocorax carbo",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Suliformes",
+        "Family": "Phalacrocoracidae",
+        "Genus": "Phalacrocorax",
+        "Species": "P. carbo"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Coastal areas, large inland water bodies, rivers, lakes",
+        "Diet": "Fish, eels",
+        "Breeding": "Colonial breeder, stick nests in trees or on cliffs",
+        "Lifespan": "Up to 15-20 years",
+        "Size": "80-100 cm",
+        "Weight": "1.5-5.3 kg"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Very Large",
+        "HabitatSpecialization": "Medium",
+        "Population": "High"
+      }
+    },
+    {
+      "Common Name": "Great Slaty Woodpecker",
+      "Scientific Name": "Mulleripicus pulverulentus",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Piciformes",
+        "Family": "Picidae",
+        "Genus": "Mulleripicus",
+        "Species": "M. pulverulentus"
+      },
+      "Conservation": {
+        "IUCN": "Vulnerable",
+        "IndiaStatus": "Uncommon",
+        "PopulationTrend": "Decreasing"
+      },
+      "Ecology": {
+        "Habitat": "Tropical and subtropical moist broadleaf forests",
+        "Diet": "Ants, termites, other insects, larvae",
+        "Breeding": "March-May, nests in large tree holes",
+        "Lifespan": "Data not readily available",
+        "Size": "48-58 cm",
+        "Weight": "360-560 g"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Decline",
+        "CurrentAnnualTrend": "Declining",
+        "DistributionRangeSize": "Small",
+        "HabitatSpecialization": "High",
+        "Population": "Low"
+      }
+    },
+    {
+      "Common Name": "Greater Coucal",
+      "Scientific Name": "Centropus sinensis",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Cuculiformes",
+        "Family": "Cuculidae",
+        "Genus": "Centropus",
+        "Species": "C. sinensis"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Scrubland, gardens, agricultural areas, open forests",
+        "Diet": "Large insects, lizards, rodents, eggs, nestlings",
+        "Breeding": "Year-round, bulky nest in dense vegetation",
+        "Lifespan": "Data not readily available",
+        "Size": "48-52 cm",
+        "Weight": "200-300 g"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Very Large",
+        "HabitatSpecialization": "Low",
+        "Population": "High"
+      }
+    },
+    {
+      "Common Name": "Greater Flameback",
+      "Scientific Name": "Chrysocolaptes guttacristatus",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Piciformes",
+        "Family": "Picidae",
+        "Genus": "Chrysocolaptes",
+        "Species": "C. guttacristatus"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Open woodlands, moist deciduous forests, gardens, plantations",
+        "Diet": "Insects, particularly ants and termites, larvae",
+        "Breeding": "February-July, nests in tree holes",
+        "Lifespan": "Data not readily available",
+        "Size": "31-34 cm",
+        "Weight": "180-250 g"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Large",
+        "HabitatSpecialization": "Medium",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Green Bee-Eater",
+      "Scientific Name": "Merops orientalis",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Coraciiformes",
+        "Family": "Meropidae",
+        "Genus": "Merops",
+        "Species": "M. orientalis"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Open country, cultivated areas, scrubland, gardens",
+        "Diet": "Insects (esp. bees, wasps, dragonflies) caught in flight",
+        "Breeding": "March-June, nests in tunnels dug into sandy banks",
+        "Lifespan": "Data not readily available",
+        "Size": "16-18 cm (plus tail streamers)",
+        "Weight": "15-20 g"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Very Large",
+        "HabitatSpecialization": "Low",
+        "Population": "High"
+      }
+    },
+    {
+      "Common Name": "Green-Tailed Sunbird",
+      "Scientific Name": "Aethopyga nipalensis",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Nectariniidae",
+        "Genus": "Aethopyga",
+        "Species": "A. nipalensis"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Forests, woodlands, scrubland, often at higher altitudes",
+        "Diet": "Nectar, insects, spiders",
+        "Breeding": "April-August, purse-shaped nest",
+        "Lifespan": "Data not readily available",
+        "Size": "10-12 cm",
+        "Weight": "6-10 g"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Medium",
+        "HabitatSpecialization": "Medium",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Grey-Throated Martin",
+      "Scientific Name": "Riparia chinensis",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Hirundinidae",
+        "Genus": "Riparia",
+        "Species": "R. chinensis"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Near water bodies, rivers, lakes, open country",
+        "Diet": "Flying insects",
+        "Breeding": "February-May, nests in tunnels dug into sandy banks",
+        "Lifespan": "Data not readily available",
+        "Size": "12-13 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Large",
+        "HabitatSpecialization": "Medium",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Heart-Spotted Woodpecker",
+      "Scientific Name": "Hemicircus canente",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Piciformes",
+        "Family": "Picidae",
+        "Genus": "Hemicircus",
+        "Species": "H. canente"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Fairly Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Deciduous and evergreen forests, bamboo groves",
+        "Diet": "Ants, termites, larvae",
+        "Breeding": "January-May, nests in tree holes",
+        "Lifespan": "Data not readily available",
+        "Size": "15-16 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Medium",
+        "HabitatSpecialization": "Medium",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Himalayan Flameback",
+      "Scientific Name": "Dinopium shorii",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Piciformes",
+        "Family": "Picidae",
+        "Genus": "Dinopium",
+        "Species": "D. shorii"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Fairly Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Subtropical and tropical moist lowland forests, montane forests",
+        "Diet": "Insects, particularly ants and termites",
+        "Breeding": "March-June, nests in tree holes",
+        "Lifespan": "Data not readily available",
+        "Size": "30-34 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Medium",
+        "HabitatSpecialization": "Medium",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Himalayan Woodpecker",
+      "Scientific Name": "Dendrocopos himalayensis",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Piciformes",
+        "Family": "Picidae",
+        "Genus": "Dendrocopos",
+        "Species": "D. himalayensis"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Coniferous and oak forests in the Himalayas",
+        "Diet": "Insects from bark, pine seeds, berries",
+        "Breeding": "April-July, nests in tree holes",
+        "Lifespan": "Data not readily available",
+        "Size": "23-25 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Medium",
+        "HabitatSpecialization": "Medium",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Hooded Pitta",
+      "Scientific Name": "Pitta sordida",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Pittidae",
+        "Genus": "Pitta",
+        "Species": "P. sordida"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Rare Migrant",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Dense broadleaf forests, bamboo thickets, often near streams",
+        "Diet": "Insects, earthworms, snails",
+        "Breeding": "Summer in breeding grounds (not India)",
+        "Lifespan": "Data not readily available",
+        "Size": "16-19 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Small",
+        "HabitatSpecialization": "High",
+        "Population": "Low"
+      }
+    },
+    {
+      "Common Name": "House Crow",
+      "Scientific Name": "Corvus splendens",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Corvidae",
+        "Genus": "Corvus",
+        "Species": "C. splendens"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Very Common",
+        "PopulationTrend": "Increasing"
+      },
+      "Ecology": {
+        "Habitat": "Urban areas, agricultural lands, open woodlands",
+        "Diet": "Omnivorous - eats grains, fruits, insects, small animals, human food waste",
+        "Breeding": "March to July, builds nests in trees or buildings",
+        "Lifespan": "6-10 years in wild",
+        "Size": "40-43 cm",
+        "Weight": "250-350 g"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Increasing",
+        "DistributionRangeSize": "Very Large",
+        "HabitatSpecialization": "Low",
+        "Population": "Very High"
+      }
+    },
+    {
+      "Common Name": "Indian Blue Robin",
+      "Scientific Name": "Larvivora brunnea",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Muscicapidae",
+        "Genus": "Larvivora",
+        "Species": "L. brunnea"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Winter Visitor",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Dense undergrowth in forests, wooded gardens",
+        "Diet": "Insects, berries",
+        "Breeding": "Summer in Himalayas, cup-shaped nest on ground or low bushes",
+        "Lifespan": "Data not readily available",
+        "Size": "14-15 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Large",
+        "HabitatSpecialization": "Medium",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Indian Bush Lark",
+      "Scientific Name": "Mirafra erythroptera",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Alaudidae",
+        "Genus": "Mirafra",
+        "Species": "M. erythroptera"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Dry scrubland, fallow fields, open stony areas",
+        "Diet": "Seeds, insects",
+        "Breeding": "Monsoon and post-monsoon, nests on the ground",
+        "Lifespan": "Data not readily available",
+        "Size": "13-14 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Large",
+        "HabitatSpecialization": "Medium",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Indian Golden Oriole",
+      "Scientific Name": "Oriolus kundoo",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Oriolidae",
+        "Genus": "Oriolus",
+        "Species": "O. kundoo"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Open woodlands, gardens, cultivated areas with trees",
+        "Diet": "Fruits, berries, insects",
+        "Breeding": "April-July, cup-shaped nest in tree forks",
+        "Lifespan": "Data not readily available",
+        "Size": "23-25 cm",
+        "Weight": "60-80 g"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Very Large",
+        "HabitatSpecialization": "Low",
+        "Population": "High"
+      }
+    },
+    {
+      "Common Name": "Indian Grey Hornbill",
+      "Scientific Name": "Ocyceros birostris",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Bucerotiformes",
+        "Family": "Bucerotidae",
+        "Genus": "Ocyceros",
+        "Species": "O. birostris"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Open woodlands, gardens, urban areas with large trees",
+        "Diet": "Fruits (esp. figs), insects, lizards, rodents",
+        "Breeding": "March-June, female seals herself in tree cavity",
+        "Lifespan": "Data not readily available",
+        "Size": "61 cm",
+        "Weight": "300-400 g"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Large",
+        "HabitatSpecialization": "Medium",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Indian Nuthatch",
+      "Scientific Name": "Sitta castanea",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Sittidae",
+        "Genus": "Sitta",
+        "Species": "S. castanea"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Deciduous and mixed forests, gardens",
+        "Diet": "Insects, seeds, nuts",
+        "Breeding": "March-May, nests in tree holes",
+        "Lifespan": "Data not readily available",
+        "Size": "13 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Large",
+        "HabitatSpecialization": "Medium",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Indian Paradise Flycatcher",
+      "Scientific Name": "Terpsiphone paradisi",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Monarchidae",
+        "Genus": "Terpsiphone",
+        "Species": "T. paradisi"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Dense forests, woodlands, gardens, often near water",
+        "Diet": "Insects, caught in flight",
+        "Breeding": "April-July, cup-shaped nest in trees",
+        "Lifespan": "Data not readily available",
+        "Size": "20-22 cm (males up to 50 cm with tail streamers)",
+        "Weight": "20-25 g"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Very Large",
+        "HabitatSpecialization": "Medium",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Indian Peafowl",
+      "Scientific Name": "Pavo cristatus",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Galliformes",
+        "Family": "Phasianidae",
+        "Genus": "Pavo",
+        "Species": "P. cristatus"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Very Common",
+        "PopulationTrend": "Increasing"
+      },
+      "Ecology": {
+        "Habitat": "Open forests, cultivated areas, scrubland, near human settlements",
+        "Diet": "Omnivorous - grains, seeds, fruits, insects, reptiles, small mammals",
+        "Breeding": "Monsoon season, lays eggs on ground in a scrape",
+        "Lifespan": "Up to 20 years",
+        "Size": "100-230 cm (including train)",
+        "Weight": "4-6 kg"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Increasing",
+        "CurrentAnnualTrend": "Increasing",
+        "DistributionRangeSize": "Very Large",
+        "HabitatSpecialization": "Low",
+        "Population": "Very High"
+      }
+    },
+    {
+      "Common Name": "Indian Pitta",
+      "Scientific Name": "Pitta brachyura",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Pittidae",
+        "Genus": "Pitta",
+        "Species": "P. brachyura"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Migratory Breeder",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Dense undergrowth in forests, well-wooded gardens",
+        "Diet": "Insects, earthworms, snails",
+        "Breeding": "Monsoon season in Himalayas, globular nest on ground or low bushes",
+        "Lifespan": "Data not readily available",
+        "Size": "18-20 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Large",
+        "HabitatSpecialization": "Medium",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Indian Pond Heron",
+      "Scientific Name": "Ardeola grayii",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Pelecaniformes",
+        "Family": "Ardeidae",
+        "Genus": "Ardeola",
+        "Species": "A. grayii"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Very Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Ponds, lakes, marshes, rice paddies, ditches",
+        "Diet": "Fish, frogs, insects, crustaceans",
+        "Breeding": "Monsoon season, colonial breeder, stick nests in trees or bushes",
+        "Lifespan": "Data not readily available",
+        "Size": "40-49 cm",
+        "Weight": "250-350 g"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Very Large",
+        "HabitatSpecialization": "Low",
+        "Population": "Very High"
+      }
+    },
+    {
+      "Common Name": "Indian Robin",
+      "Scientific Name": "Copsychus fulicatus",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Muscicapidae",
+        "Genus": "Copsychus",
+        "Species": "C. fulicatus"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Open scrubland, gardens, cultivated areas, urban parks",
+        "Diet": "Insects, spiders, worms",
+        "Breeding": "March-August, nests in cavities, holes in walls, or on ground",
+        "Lifespan": "Data not readily available",
+        "Size": "16-17 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Very Large",
+        "HabitatSpecialization": "Low",
+        "Population": "High"
+      }
+    },
+    {
+      "Common Name": "Indian Roller",
+      "Scientific Name": "Coracias benghalensis",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Coraciiformes",
+        "Family": "Coraciidae",
+        "Genus": "Coracias",
+        "Species": "C. benghalensis"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Decreasing (locally)"
+      },
+      "Ecology": {
+        "Habitat": "Open agricultural areas, grasslands, light woodland, often near roadsides",
+        "Diet": "Insects, spiders, small reptiles, amphibians",
+        "Breeding": "March-July, nests in tree holes or building crevices",
+        "Lifespan": "Data not readily available",
+        "Size": "30-34 cm",
+        "Weight": "120-170 g"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Decline",
+        "CurrentAnnualTrend": "Declining",
+        "DistributionRangeSize": "Very Large",
+        "HabitatSpecialization": "Low",
+        "Population": "High"
+      }
+    },
+    {
+      "Common Name": "Indian Scops Owl",
+      "Scientific Name": "Otus bakkamoena",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Strigiformes",
+        "Family": "Strigidae",
+        "Genus": "Otus",
+        "Species": "O. bakkamoena"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Open woodlands, groves, gardens, cultivated areas",
+        "Diet": "Large insects, small rodents, lizards",
+        "Breeding": "February-May, nests in tree holes or building crevices",
+        "Lifespan": "Data not readily available",
+        "Size": "20-23 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Large",
+        "HabitatSpecialization": "Low",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Indian Silverbill",
+      "Scientific Name": "Euodice malabarica",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Estrildidae",
+        "Genus": "Euodice",
+        "Species": "E. malabarica"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Dry scrubland, grasslands, cultivated areas, open country",
+        "Diet": "Grass seeds",
+        "Breeding": "Year-round, globular nest in thorny bushes or small trees",
+        "Lifespan": "Data not readily available",
+        "Size": "11 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Very Large",
+        "HabitatSpecialization": "Low",
+        "Population": "High"
+      }
+    },
+    {
+      "Common Name": "Indian Skimmer",
+      "Scientific Name": "Rynchops albicollis",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Charadriiformes",
+        "Family": "Rynchopidae",
+        "Genus": "Rynchops",
+        "Species": "R. albicollis"
+      },
+      "Conservation": {
+        "IUCN": "Endangered",
+        "IndiaStatus": "Rare",
+        "PopulationTrend": "Decreasing"
+      },
+      "Ecology": {
+        "Habitat": "Large rivers, estuaries, coastal lagoons",
+        "Diet": "Fish, skimmed from water surface",
+        "Breeding": "March-May, nests in shallow scrapes on sandbars",
+        "Lifespan": "Data not readily available",
+        "Size": "40-43 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Steep Decline",
+        "CurrentAnnualTrend": "Declining",
+        "DistributionRangeSize": "Small",
+        "HabitatSpecialization": "High",
+        "Population": "Very Low"
+      }
+    },
+    {
+      "Common Name": "Indian Spotted Eagle",
+      "Scientific Name": "Clanga hastata",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Accipitriformes",
+        "Family": "Accipitridae",
+        "Genus": "Clanga",
+        "Species": "C. hastata"
+      },
+      "Conservation": {
+        "IUCN": "Vulnerable",
+        "IndiaStatus": "Uncommon",
+        "PopulationTrend": "Decreasing"
+      },
+      "Ecology": {
+        "Habitat": "Open woodlands, wetlands, cultivated areas with scattered trees",
+        "Diet": "Small mammals, birds, reptiles, frogs",
+        "Breeding": "November-March, stick nest in trees",
+        "Lifespan": "Data not readily available",
+        "Size": "59-67 cm",
+        "Weight": "1.5-2.5 kg"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Decline",
+        "CurrentAnnualTrend": "Declining",
+        "DistributionRangeSize": "Medium",
+        "HabitatSpecialization": "Medium",
+        "Population": "Low"
+      }
+    },
+    {
+      "Common Name": "Jerdon's Bush Lark",
+      "Scientific Name": "Mirafra affinis",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Alaudidae",
+        "Genus": "Mirafra",
+        "Species": "M. affinis"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Dry scrubland, fallow fields, open stony areas",
+        "Diet": "Seeds, insects",
+        "Breeding": "Monsoon and post-monsoon, nests on the ground",
+        "Lifespan": "Data not readily available",
+        "Size": "13-14 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Medium",
+        "HabitatSpecialization": "Medium",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Jungle Babbler",
+      "Scientific Name": "Argya striata",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Leiothrichidae",
+        "Genus": "Argya",
+        "Species": "A. striata"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Scrubland, gardens, open forests, urban areas",
+        "Diet": "Insects, seeds, fruits",
+        "Breeding": "Year-round, group nesting in thorny bushes or small trees",
+        "Lifespan": "Data not readily available",
+        "Size": "25 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Very Large",
+        "HabitatSpecialization": "Low",
+        "Population": "High"
+      }
+    },
+    {
+      "Common Name": "Large Grey Babbler",
+      "Scientific Name": "Argya malcolmi",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Leiothrichidae",
+        "Genus": "Argya",
+        "Species": "A. malcolmi"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Dry scrubland, open forests, cultivation with bushes",
+        "Diet": "Insects, seeds, berries",
+        "Breeding": "Year-round, group nesting in thorny bushes",
+        "Lifespan": "Data not readily available",
+        "Size": "28 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Large",
+        "HabitatSpecialization": "Low",
+        "Population": "High"
+      }
+    },
+    {
+      "Common Name": "Lesser Yellownape",
+      "Scientific Name": "Picus chlorolophus",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Piciformes",
+        "Family": "Picidae",
+        "Genus": "Picus",
+        "Species": "P. chlorolophus"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Forests, woodlands, bamboo groves, gardens",
+        "Diet": "Ants, termites, insects",
+        "Breeding": "February-May, nests in tree holes",
+        "Lifespan": "Data not readily available",
+        "Size": "27-30 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Large",
+        "HabitatSpecialization": "Medium",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Little Egret",
+      "Scientific Name": "Egretta garzetta",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Pelecaniformes",
+        "Family": "Ardeidae",
+        "Genus": "Egretta",
+        "Species": "E. garzetta"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Wetlands, paddy fields, shallow waters, coastal areas",
+        "Diet": "Fish, frogs, insects, crustaceans",
+        "Breeding": "Monsoon season, colonial breeder in trees or reeds",
+        "Lifespan": "Data not readily available",
+        "Size": "55-65 cm",
+        "Weight": "350-550 g"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Very Large",
+        "HabitatSpecialization": "Low",
+        "Population": "High"
+      }
+    },
+    {
+      "Common Name": "Little Spiderhunter",
+      "Scientific Name": "Arachnothera longirostra",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Nectariniidae",
+        "Genus": "Arachnothera",
+        "Species": "A. longirostra"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Forests, woodlands, gardens, often near banana plants",
+        "Diet": "Nectar, insects, spiders",
+        "Breeding": "February-June, conical nest suspended from underside of large leaves",
+        "Lifespan": "Data not readily available",
+        "Size": "14-16 cm",
+        "Weight": "8-12 g"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Large",
+        "HabitatSpecialization": "Medium",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Loten's Sunbird",
+      "Scientific Name": "Cinnyris lotenius",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Nectariniidae",
+        "Genus": "Cinnyris",
+        "Species": "C. lotenius"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Gardens, cultivated areas, scrub, open woodland",
+        "Diet": "Nectar, insects, spiders",
+        "Breeding": "December-August, purse-shaped nest",
+        "Lifespan": "Data not readily available",
+        "Size": "12-14 cm",
+        "Weight": "6-9 g"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Medium",
+        "HabitatSpecialization": "Low",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Malabar Barbet",
+      "Scientific Name": "Psilopogon malabaricus",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Piciformes",
+        "Family": "Megalaimidae",
+        "Genus": "Psilopogon",
+        "Species": "P. malabaricus"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Moist evergreen forests, plantations of Western Ghats",
+        "Diet": "Fruits, insects",
+        "Breeding": "February-May, nests in tree holes",
+        "Lifespan": "Data not readily available",
+        "Size": "27-29 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Small",
+        "HabitatSpecialization": "High",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Malabar Lark",
+      "Scientific Name": "Galerida malabarica",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Alaudidae",
+        "Genus": "Galerida",
+        "Species": "G. malabarica"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Open scrubland, rocky hills, cultivated fields",
+        "Diet": "Seeds, insects",
+        "Breeding": "March-August, nests on the ground",
+        "Lifespan": "Data not readily available",
+        "Size": "16 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Medium",
+        "HabitatSpecialization": "Medium",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Nilgiri Flowerpecker",
+      "Scientific Name": "Dicaeum concolor",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Dicaeidae",
+        "Genus": "Dicaeum",
+        "Species": "D. concolor"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Forests, coffee plantations, gardens in hills",
+        "Diet": "Berries, nectar, insects",
+        "Breeding": "February-May, pear-shaped nest",
+        "Lifespan": "Data not readily available",
+        "Size": "8 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Small",
+        "HabitatSpecialization": "High",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Nilgiri Flycatcher",
+      "Scientific Name": "Eumyias albicaudatus",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Muscicapidae",
+        "Genus": "Eumyias",
+        "Species": "E. albicaudatus"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Shola forests and adjoining grasslands in Western Ghats",
+        "Diet": "Insects, caught in flight",
+        "Breeding": "March-June, cup-shaped nest in tree holes or crevices",
+        "Lifespan": "Data not readily available",
+        "Size": "14-15 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Small",
+        "HabitatSpecialization": "High",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Nilgiri Laughingthrush",
+      "Scientific Name": "Montecincla jerdoni",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Leiothrichidae",
+        "Genus": "Montecincla",
+        "Species": "M. jerdoni"
+      },
+      "Conservation": {
+        "IUCN": "Near Threatened",
+        "IndiaStatus": "Uncommon",
+        "PopulationTrend": "Declining"
+      },
+      "Ecology": {
+        "Habitat": "Shola forests and montane evergreen forests in Western Ghats",
+        "Diet": "Insects, berries, seeds",
+        "Breeding": "March-June, cup-shaped nest in bushes",
+        "Lifespan": "Data not readily available",
+        "Size": "20-22 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Decline",
+        "CurrentAnnualTrend": "Declining",
+        "DistributionRangeSize": "Small",
+        "HabitatSpecialization": "High",
+        "Population": "Low"
+      }
+    },
+    {
+      "Common Name": "Oriental Skylark",
+      "Scientific Name": "Alauda gulgula",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Alaudidae",
+        "Genus": "Alauda",
+        "Species": "A. gulgula"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Open grasslands, cultivated fields, plains",
+        "Diet": "Seeds, insects",
+        "Breeding": "March-August, nests on the ground",
+        "Lifespan": "Data not readily available",
+        "Size": "15-17 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Very Large",
+        "HabitatSpecialization": "Low",
+        "Population": "High"
+      }
+    },
+    {
+      "Common Name": "Painted Stork",
+      "Scientific Name": "Mycteria leucocephala",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Ciconiiformes",
+        "Family": "Ciconiidae",
+        "Genus": "Mycteria",
+        "Species": "M. leucocephala"
+      },
+      "Conservation": {
+        "IUCN": "Near Threatened",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Wetlands, paddy fields, shallow waters, reservoirs",
+        "Diet": "Fish, frogs, reptiles, large insects",
+        "Breeding": "Monsoon season, colonial breeder in trees",
+        "Lifespan": "Data not readily available",
+        "Size": "93-102 cm",
+        "Weight": "2-3.5 kg"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Large",
+        "HabitatSpecialization": "Medium",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Pale-Billed Flowerpecker",
+      "Scientific Name": "Dicaeum erythrorhynchos",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Dicaeidae",
+        "Genus": "Dicaeum",
+        "Species": "D. erythrorhynchos"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Gardens, orchards, scrub, open forests",
+        "Diet": "Berries (esp. mistletoe), nectar, small insects",
+        "Breeding": "March-June, purse-shaped nest",
+        "Lifespan": "Data not readily available",
+        "Size": "8 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Very Large",
+        "HabitatSpecialization": "Low",
+        "Population": "High"
+      }
+    },
+    {
+      "Common Name": "Pied Kingfisher",
+      "Scientific Name": "Ceryle rudis",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Coraciiformes",
+        "Family": "Alcedinidae",
+        "Genus": "Ceryle",
+        "Species": "C. rudis"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Large water bodies, rivers, lakes, estuaries",
+        "Diet": "Fish, aquatic insects, crustaceans",
+        "Breeding": "January-May, nests in tunnels dug into sandy banks",
+        "Lifespan": "Data not readily available",
+        "Size": "25-28 cm",
+        "Weight": "70-100 g"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Very Large",
+        "HabitatSpecialization": "Medium",
+        "Population": "High"
+      }
+    },
+    {
+      "Common Name": "Purple Sunbird",
+      "Scientific Name": "Cinnyris asiaticus",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Nectariniidae",
+        "Genus": "Cinnyris",
+        "Species": "C. asiaticus"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Gardens, orchards, scrub, open woodland",
+        "Diet": "Nectar, insects, spiders",
+        "Breeding": "January-June, purse-shaped nest",
+        "Lifespan": "Data not readily available",
+        "Size": "10-11 cm",
+        "Weight": "5-8 g"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Very Large",
+        "HabitatSpecialization": "Low",
+        "Population": "High"
+      }
+    },
+    {
+      "Common Name": "Purple-Rumped Sunbird",
+      "Scientific Name": "Leptocoma zeylonica",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Nectariniidae",
+        "Genus": "Leptocoma",
+        "Species": "L. zeylonica"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Gardens, cultivated areas, scrub, open woodland",
+        "Diet": "Nectar, insects, spiders",
+        "Breeding": "January-June, purse-shaped nest",
+        "Lifespan": "Data not readily available",
+        "Size": "10-11 cm",
+        "Weight": "5-8 g"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Large",
+        "HabitatSpecialization": "Low",
+        "Population": "High"
+      }
+    },
+    {
+      "Common Name": "Red Avadavat",
+      "Scientific Name": "Amandava amandava",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Estrildidae",
+        "Genus": "Amandava",
+        "Species": "A. amandava"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Tall grasslands, reedbeds, cultivation, marshes",
+        "Diet": "Grass seeds",
+        "Breeding": "Monsoon season, globular nest in tall grass",
+        "Lifespan": "Data not readily available",
+        "Size": "10 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Large",
+        "HabitatSpecialization": "Medium",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Red-Breasted Flycatcher",
+      "Scientific Name": "Ficedula parva",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Muscicapidae",
+        "Genus": "Ficedula",
+        "Species": "F. parva"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common Winter Visitor",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Forests, woodlands, gardens, often in undergrowth",
+        "Diet": "Insects, spiders",
+        "Breeding": "Summer in breeding grounds (not India)",
+        "Lifespan": "Data not readily available",
+        "Size": "11-12 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Large",
+        "HabitatSpecialization": "Low",
+        "Population": "High"
+      }
+    },
+    {
+      "Common Name": "Red-Rumped Swallow",
+      "Scientific Name": "Cecropis daurica",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Hirundinidae",
+        "Genus": "Cecropis",
+        "Species": "C. daurica"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Open country, hills, cliffs, human habitations",
+        "Diet": "Flying insects",
+        "Breeding": "March-August, flask-shaped mud nest under overhangs",
+        "Lifespan": "Data not readily available",
+        "Size": "16-19 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Very Large",
+        "HabitatSpecialization": "Low",
+        "Population": "High"
+      }
+    },
+    {
+      "Common Name": "Red-Vented Bulbul",
+      "Scientific Name": "Pycnonotus cafer",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Pycnonotidae",
+        "Genus": "Pycnonotus",
+        "Species": "P. cafer"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Very Common",
+        "PopulationTrend": "Increasing"
+      },
+      "Ecology": {
+        "Habitat": "Gardens, urban areas, scrubland, open forests",
+        "Diet": "Fruits, berries, insects, nectar",
+        "Breeding": "Year-round, cup-shaped nest in bushes or trees",
+        "Lifespan": "Up to 11 years",
+        "Size": "20 cm",
+        "Weight": "30-45 g"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Increasing",
+        "CurrentAnnualTrend": "Increasing",
+        "DistributionRangeSize": "Very Large",
+        "HabitatSpecialization": "Low",
+        "Population": "Very High"
+      }
+    },
+    {
+      "Common Name": "Red-Wattled Lapwing",
+      "Scientific Name": "Vanellus indicus",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Charadriiformes",
+        "Family": "Charadriidae",
+        "Genus": "Vanellus",
+        "Species": "V. indicus"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Open areas, cultivated fields, wetlands, grasslands, near water",
+        "Diet": "Insects, worms, molluscs",
+        "Breeding": "March-July, nests on the ground in a scrape",
+        "Lifespan": "Data not readily available",
+        "Size": "32-35 cm",
+        "Weight": "100-200 g"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Very Large",
+        "HabitatSpecialization": "Low",
+        "Population": "High"
+      }
+    },
+    {
+      "Common Name": "Rose-Ringed Parakeet",
+      "Scientific Name": "Psittacula krameri",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Psittaciformes",
+        "Family": "Psittaculidae",
+        "Genus": "Psittacula",
+        "Species": "P. krameri"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Increasing"
+      },
+      "Ecology": {
+        "Habitat": "Urban areas, agricultural lands, woodlands, gardens",
+        "Diet": "Fruits, seeds, nuts, nectar, grain",
+        "Breeding": "February-May, nests in tree cavities or holes in buildings",
+        "Lifespan": "Up to 30 years in captivity, less in wild",
+        "Size": "37-43 cm (including tail)",
+        "Weight": "100-140 g"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Increasing",
+        "CurrentAnnualTrend": "Increasing",
+        "DistributionRangeSize": "Very Large",
+        "HabitatSpecialization": "Low",
+        "Population": "Very High"
+      }
+    },
+    {
+      "Common Name": "Rufous Babbler",
+      "Scientific Name": "Argya subrufa",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Leiothrichidae",
+        "Genus": "Argya",
+        "Species": "A. subrufa"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Evergreen and moist deciduous forests, scrubland in Western Ghats",
+        "Diet": "Insects, berries",
+        "Breeding": "March-August, group nesting in dense bushes",
+        "Lifespan": "Data not readily available",
+        "Size": "24-25 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Small",
+        "HabitatSpecialization": "Medium",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Rufous Treepie",
+      "Scientific Name": "Dendrocitta vagabunda",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Corvidae",
+        "Genus": "Dendrocitta",
+        "Species": "D. vagabunda"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Open forests, woodlands, cultivated areas, gardens, urban parks",
+        "Diet": "Omnivorous - fruits, seeds, insects, eggs, nestlings, carrion",
+        "Breeding": "March-July, stick nest in trees",
+        "Lifespan": "Data not readily available",
+        "Size": "46-50 cm (including long tail)",
+        "Weight": "100-130 g"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Very Large",
+        "HabitatSpecialization": "Low",
+        "Population": "High"
+      }
+    },
+    {
+      "Common Name": "Rufous Woodpecker",
+      "Scientific Name": "Micropternus brachyurus",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Piciformes",
+        "Family": "Picidae",
+        "Genus": "Micropternus",
+        "Species": "M. brachyurus"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Forests, woodlands, bamboo thickets, plantations",
+        "Diet": "Ants (esp. tree ants), insects",
+        "Breeding": "January-May, nests in active ant nests",
+        "Lifespan": "Data not readily available",
+        "Size": "25 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Large",
+        "HabitatSpecialization": "Medium",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Rufous-Bellied Woodpecker",
+      "Scientific Name": "Dendrocopos hyperythrus",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Piciformes",
+        "Family": "Picidae",
+        "Genus": "Dendrocopos",
+        "Species": "D. hyperythrus"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Fairly Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Himalayan broadleaf forests, mixed forests",
+        "Diet": "Insects from trees, nuts, berries",
+        "Breeding": "April-June, nests in tree holes",
+        "Lifespan": "Data not readily available",
+        "Size": "22-24 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Medium",
+        "HabitatSpecialization": "Medium",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Rufous-Tailed Lark",
+      "Scientific Name": "Ammomanes phoenicurus",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Alaudidae",
+        "Genus": "Ammomanes",
+        "Species": "A. phoenicurus"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Arid and semi-arid plains, rocky scrubland, stony deserts",
+        "Diet": "Seeds, insects",
+        "Breeding": "February-May, nests on the ground",
+        "Lifespan": "Data not readily available",
+        "Size": "16 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Large",
+        "HabitatSpecialization": "Medium",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Rusty-Tailed Flycatcher",
+      "Scientific Name": "Muscicapa ruficauda",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Muscicapidae",
+        "Genus": "Muscicapa",
+        "Species": "M. ruficauda"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Winter Visitor",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Dense forests, often near streams, at higher altitudes",
+        "Diet": "Insects, caught in flight or from foliage",
+        "Breeding": "Summer in Himalayas/Central Asia, cup-shaped nest",
+        "Lifespan": "Data not readily available",
+        "Size": "14 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Medium",
+        "HabitatSpecialization": "Medium",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Sand Lark",
+      "Scientific Name": "Alaudala raytal",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Alaudidae",
+        "Genus": "Alaudala",
+        "Species": "A. raytal"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Sandy riverbeds, coastal dunes, arid plains",
+        "Diet": "Seeds, insects",
+        "Breeding": "March-May, nests on the ground in a scrape",
+        "Lifespan": "Data not readily available",
+        "Size": "12-13 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Medium",
+        "HabitatSpecialization": "High",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Scaly-Breasted Munia",
+      "Scientific Name": "Lonchura punctulata",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Estrildidae",
+        "Genus": "Lonchura",
+        "Species": "L. punctulata"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Grasslands, scrubland, cultivated areas, gardens",
+        "Diet": "Grass seeds",
+        "Breeding": "Year-round, globular nest in bushes or tall grass",
+        "Lifespan": "Data not readily available",
+        "Size": "11-12 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Very Large",
+        "HabitatSpecialization": "Low",
+        "Population": "High"
+      }
+    },
+    {
+      "Common Name": "Shikra",
+      "Scientific Name": "Accipiter badius",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Accipitriformes",
+        "Family": "Accipitridae",
+        "Genus": "Accipiter",
+        "Species": "A. badius"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Open woodlands, gardens, cultivated areas, urban parks",
+        "Diet": "Small birds, lizards, rodents, large insects",
+        "Breeding": "March-June, stick nest in trees",
+        "Lifespan": "Data not readily available",
+        "Size": "26-30 cm",
+        "Weight": "100-200 g"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Very Large",
+        "HabitatSpecialization": "Low",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Siberian Rubythroat",
+      "Scientific Name": "Calliope calliope",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Muscicapidae",
+        "Genus": "Calliope",
+        "Species": "C. calliope"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Winter Visitor",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Dense scrub, reedbeds, swampy areas",
+        "Diet": "Insects, berries",
+        "Breeding": "Summer in breeding grounds (not India)",
+        "Lifespan": "Data not readily available",
+        "Size": "14-15 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Large",
+        "HabitatSpecialization": "Medium",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Slaty-Blue Flycatcher",
+      "Scientific Name": "Ficedula tricolor",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Muscicapidae",
+        "Genus": "Ficedula",
+        "Species": "F. tricolor"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Montane forests, often near streams and waterfalls",
+        "Diet": "Insects, caught in flight or from foliage",
+        "Breeding": "April-July, cup-shaped nest in rock crevices or tree holes",
+        "Lifespan": "Data not readily available",
+        "Size": "12-13 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Medium",
+        "HabitatSpecialization": "Medium",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Spot-Billed Pelican",
+      "Scientific Name": "Pelecanus philippensis",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Pelecaniformes",
+        "Family": "Pelecanidae",
+        "Genus": "Pelecanus",
+        "Species": "P. philippensis"
+      },
+      "Conservation": {
+        "IUCN": "Near Threatened",
+        "IndiaStatus": "Fairly Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Large wetlands, lakes, rivers, coastal areas",
+        "Diet": "Fish, caught by diving or scooping",
+        "Breeding": "October-March, colonial breeder in trees",
+        "Lifespan": "Data not readily available",
+        "Size": "125-152 cm",
+        "Weight": "4-6 kg"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Large",
+        "HabitatSpecialization": "High",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Spotted Owlet",
+      "Scientific Name": "Athene brama",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Strigiformes",
+        "Family": "Strigidae",
+        "Genus": "Athene",
+        "Species": "A. brama"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Open woodlands, cultivated areas, urban areas, ruins",
+        "Diet": "Insects, small mammals, birds, reptiles",
+        "Breeding": "November-April, nests in tree holes, walls, or buildings",
+        "Lifespan": "Data not readily available",
+        "Size": "20-22 cm",
+        "Weight": "100-150 g"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Very Large",
+        "HabitatSpecialization": "Low",
+        "Population": "High"
+      }
+    },
+    {
+      "Common Name": "Stork-Billed Kingfisher",
+      "Scientific Name": "Pelargopsis capensis",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Coraciiformes",
+        "Family": "Alcedinidae",
+        "Genus": "Pelargopsis",
+        "Species": "P. capensis"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Fairly Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Large rivers, lakes, estuaries, mangrove forests",
+        "Diet": "Large fish, crabs, frogs, reptiles, small mammals",
+        "Breeding": "March-July, nests in tunnels dug into river banks",
+        "Lifespan": "Data not readily available",
+        "Size": "35-38 cm",
+        "Weight": "200-300 g"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Large",
+        "HabitatSpecialization": "Medium",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Streaked Spiderhunter",
+      "Scientific Name": "Arachnothera magna",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Nectariniidae",
+        "Genus": "Arachnothera",
+        "Species": "A. magna"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Forests, woodlands, dense scrub",
+        "Diet": "Nectar, insects, spiders",
+        "Breeding": "February-June, conical nest suspended from underside of large leaves",
+        "Lifespan": "Data not readily available",
+        "Size": "18-20 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Medium",
+        "HabitatSpecialization": "Medium",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Streaked Weaver",
+      "Scientific Name": "Ploceus manyar",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Ploceidae",
+        "Genus": "Ploceus",
+        "Species": "P. manyar"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Grasslands, reedbeds, cultivated areas, near water",
+        "Diet": "Seeds, grain, insects",
+        "Breeding": "Monsoon season, elaborate woven nests over water or tall reeds",
+        "Lifespan": "Data not readily available",
+        "Size": "15 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Large",
+        "HabitatSpecialization": "Medium",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Streak-Throated Swallow",
+      "Scientific Name": "Petrochelidon fluvicola",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Hirundinidae",
+        "Genus": "Petrochelidon",
+        "Species": "P. fluvicola"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Near water bodies, rivers, bridges, often colonial",
+        "Diet": "Flying insects",
+        "Breeding": "March-August, colonial breeder, mud nests under bridges or rock faces",
+        "Lifespan": "Data not readily available",
+        "Size": "12 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Large",
+        "HabitatSpecialization": "Medium",
+        "Population": "High"
+      }
+    },
+    {
+      "Common Name": "Streak-Throated Woodpecker",
+      "Scientific Name": "Picus xanthopygaeus",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Piciformes",
+        "Family": "Picidae",
+        "Genus": "Picus",
+        "Species": "P. xanthopygaeus"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Open woodlands, scrub forests, gardens",
+        "Diet": "Ants, termites, other insects, larvae",
+        "Breeding": "February-May, nests in tree holes",
+        "Lifespan": "Data not readily available",
+        "Size": "30-32 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Large",
+        "HabitatSpecialization": "Medium",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Striped Tit-Babbler",
+      "Scientific Name": "Mixornis gularis",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Timaliidae",
+        "Genus": "Mixornis",
+        "Species": "M. gularis"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Subtropical and tropical moist lowland forests, bamboo thickets",
+        "Diet": "Insects, spiders",
+        "Breeding": "March-June, cup-shaped nest in dense vegetation",
+        "Lifespan": "Data not readily available",
+        "Size": "12-13 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Medium",
+        "HabitatSpecialization": "Medium",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Sultan Tit",
+      "Scientific Name": "Melanochlora sultanea",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Paridae",
+        "Genus": "Melanochlora",
+        "Species": "M. sultanea"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Fairly Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Subtropical and tropical moist lowland forests, montane forests",
+        "Diet": "Insects, spiders, seeds, fruits",
+        "Breeding": "March-June, nests in tree holes",
+        "Lifespan": "Data not readily available",
+        "Size": "20-21 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Medium",
+        "HabitatSpecialization": "High",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Taiga Flycatcher",
+      "Scientific Name": "Ficedula albicilla",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Muscicapidae",
+        "Genus": "Ficedula",
+        "Species": "F. albicilla"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common Winter Visitor",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Forests, woodlands, gardens, often in undergrowth",
+        "Diet": "Insects, caught in flight or from foliage",
+        "Breeding": "Summer in breeding grounds (not India)",
+        "Lifespan": "Data not readily available",
+        "Size": "11-12 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Large",
+        "HabitatSpecialization": "Low",
+        "Population": "High"
+      }
+    },
+    {
+      "Common Name": "Tawny-Bellied Babbler",
+      "Scientific Name": "Dumetia hyperythra",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Timaliidae",
+        "Genus": "Dumetia",
+        "Species": "D. hyperythra"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Tall grass, scrub, open woodlands",
+        "Diet": "Insects, seeds",
+        "Breeding": "March-August, cup-shaped nest in low bushes or grass",
+        "Lifespan": "Data not readily available",
+        "Size": "13-14 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Large",
+        "HabitatSpecialization": "Medium",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Thick-Billed Flowerpecker",
+      "Scientific Name": "Dicaeum agile",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Dicaeidae",
+        "Genus": "Dicaeum",
+        "Species": "D. agile"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Open forests, gardens, scrub, often near mistletoe",
+        "Diet": "Berries (esp. mistletoe), nectar, small insects",
+        "Breeding": "February-June, purse-shaped nest",
+        "Lifespan": "Data not readily available",
+        "Size": "9 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Very Large",
+        "HabitatSpecialization": "Low",
+        "Population": "High"
+      }
+    },
+    {
+      "Common Name": "Ultramarine Flycatcher",
+      "Scientific Name": "Ficedula superciliaris",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Muscicapidae",
+        "Genus": "Ficedula",
+        "Species": "F. superciliaris"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Montane forests, often in undergrowth, at higher altitudes",
+        "Diet": "Insects, caught in flight or from foliage",
+        "Breeding": "April-July, cup-shaped nest in rock crevices or tree holes",
+        "Lifespan": "Data not readily available",
+        "Size": "10-11 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Medium",
+        "HabitatSpecialization": "Medium",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Velvet-Fronted Nuthatch",
+      "Scientific Name": "Sitta frontalis",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Sittidae",
+        "Genus": "Sitta",
+        "Species": "S. frontalis"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Evergreen and moist deciduous forests, gardens",
+        "Diet": "Insects, spiders, seeds",
+        "Breeding": "March-May, nests in tree holes, often plastering entrance with mud",
+        "Lifespan": "Data not readily available",
+        "Size": "11 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Large",
+        "HabitatSpecialization": "Medium",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Verditer Flycatcher",
+      "Scientific Name": "Eumyias thalassinus",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Muscicapidae",
+        "Genus": "Eumyias",
+        "Species": "E. thalassinus"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Montane forests, open woodlands, gardens, often near water",
+        "Diet": "Insects, caught in flight or from foliage",
+        "Breeding": "April-July, cup-shaped nest on rock ledges or in crevices",
+        "Lifespan": "Data not readily available",
+        "Size": "15-16 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Large",
+        "HabitatSpecialization": "Medium",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Vigors' Sunbird",
+      "Scientific Name": "Aethopyga vigorsii",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Nectariniidae",
+        "Genus": "Aethopyga",
+        "Species": "A. vigorsii"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Evergreen and moist deciduous forests, gardens of Western Ghats",
+        "Diet": "Nectar, insects, spiders",
+        "Breeding": "February-June, purse-shaped nest",
+        "Lifespan": "Data not readily available",
+        "Size": "11-13 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Small",
+        "HabitatSpecialization": "High",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "White-Bellied Blue Flycatcher",
+      "Scientific Name": "Cyornis pallipes",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Muscicapidae",
+        "Genus": "Cyornis",
+        "Species": "C. pallipes"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Dense evergreen forests of Western Ghats, particularly undergrowth",
+        "Diet": "Insects, caught from foliage or air",
+        "Breeding": "March-June, cup-shaped nest in tree crevices or rock holes",
+        "Lifespan": "Data not readily available",
+        "Size": "14 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Small",
+        "HabitatSpecialization": "High",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "White-Breasted Waterhen",
+      "Scientific Name": "Amaurornis phoenicurus",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Gruiformes",
+        "Family": "Rallidae",
+        "Genus": "Amaurornis",
+        "Species": "A. phoenicurus"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Marshes, ponds, rice paddies, ditches, dense vegetation near water",
+        "Diet": "Insects, seeds, shoots, small fish, molluscs",
+        "Breeding": "Monsoon season, cup-shaped nest in dense vegetation near water",
+        "Lifespan": "Data not readily available",
+        "Size": "29-33 cm",
+        "Weight": "150-250 g"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Very Large",
+        "HabitatSpecialization": "Low",
+        "Population": "High"
+      }
+    },
+    {
+      "Common Name": "White-Browed Fantail",
+      "Scientific Name": "Rhipidura aureola",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Rhipiduridae",
+        "Genus": "Rhipidura",
+        "Species": "R. aureola"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Open woodlands, gardens, cultivated areas, scrub",
+        "Diet": "Insects, caught in flight",
+        "Breeding": "March-August, cup-shaped nest on thin branches",
+        "Lifespan": "Data not readily available",
+        "Size": "18-19 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Very Large",
+        "HabitatSpecialization": "Low",
+        "Population": "High"
+      }
+    },
+    {
+      "Common Name": "White-Browed Wagtail",
+      "Scientific Name": "Motacilla maderaspatensis",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Motacillidae",
+        "Genus": "Motacilla",
+        "Species": "M. maderaspatensis"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Near water bodies, rivers, streams, lakes, often near human settlements",
+        "Diet": "Insects",
+        "Breeding": "March-June, cup-shaped nest in rock crevices or old buildings",
+        "Lifespan": "Data not readily available",
+        "Size": "20-21 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Large",
+        "HabitatSpecialization": "Medium",
+        "Population": "High"
+      }
+    },
+    {
+      "Common Name": "White-Cheeked Barbet",
+      "Scientific Name": "Psilopogon viridis",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Piciformes",
+        "Family": "Megalaimidae",
+        "Genus": "Psilopogon",
+        "Species": "P. viridis"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Moist evergreen forests, plantations of Western Ghats",
+        "Diet": "Fruits, insects",
+        "Breeding": "February-May, nests in tree holes",
+        "Lifespan": "Data not readily available",
+        "Size": "25-27 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Small",
+        "HabitatSpecialization": "High",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "White-Naped Tit",
+      "Scientific Name": "Machlolophus nuchalis",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Paridae",
+        "Genus": "Machlolophus",
+        "Species": "M. nuchalis"
+      },
+      "Conservation": {
+        "IUCN": "Near Threatened",
+        "IndiaStatus": "Rare",
+        "PopulationTrend": "Decreasing"
+      },
+      "Ecology": {
+        "Habitat": "Dry thorn scrub, open deciduous forests",
+        "Diet": "Insects, seeds",
+        "Breeding": "March-May, nests in tree holes or crevices",
+        "Lifespan": "Data not readily available",
+        "Size": "13 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Decline",
+        "CurrentAnnualTrend": "Declining",
+        "DistributionRangeSize": "Small",
+        "HabitatSpecialization": "Medium",
+        "Population": "Low"
+      }
+    },
+    {
+      "Common Name": "White-Rumped Munia",
+      "Scientific Name": "Lonchura striata",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Estrildidae",
+        "Genus": "Lonchura",
+        "Species": "L. striata"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Grasslands, scrubland, cultivated areas, gardens",
+        "Diet": "Grass seeds",
+        "Breeding": "Year-round, globular nest in bushes or tall grass",
+        "Lifespan": "Data not readily available",
+        "Size": "10-12 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Very Large",
+        "HabitatSpecialization": "Low",
+        "Population": "High"
+      }
+    },
+    {
+      "Common Name": "White-Spotted Fantail",
+      "Scientific Name": "Rhipidura albogularis",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Rhipiduridae",
+        "Genus": "Rhipidura",
+        "Species": "R. albogularis"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Forests, woodlands, gardens, often near water",
+        "Diet": "Insects, caught in flight",
+        "Breeding": "March-August, cup-shaped nest on thin branches",
+        "Lifespan": "Data not readily available",
+        "Size": "18-19 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Large",
+        "HabitatSpecialization": "Low",
+        "Population": "High"
+      }
+    },
+    {
+      "Common Name": "White-Throated Kingfisher",
+      "Scientific Name": "Halcyon smyrnensis",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Coraciiformes",
+        "Family": "Alcedinidae",
+        "Genus": "Halcyon",
+        "Species": "H. smyrnensis"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Open country, farmlands, gardens, near water bodies but not dependent on them",
+        "Diet": "Insects, small reptiles, amphibians, rodents, fish",
+        "Breeding": "March-July, nests in tunnels dug into earthen banks",
+        "Lifespan": "Data not readily available",
+        "Size": "26-28 cm",
+        "Weight": "70-100 g"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Very Large",
+        "HabitatSpecialization": "Low",
+        "Population": "High"
+      }
+    },
+    {
+      "Common Name": "Wire-Tailed Swallow",
+      "Scientific Name": "Hirundo smithii",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Hirundinidae",
+        "Genus": "Hirundo",
+        "Species": "H. smithii"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Near water bodies, rivers, bridges, often near human structures",
+        "Diet": "Flying insects",
+        "Breeding": "March-August, mud nest on vertical surfaces or under bridges",
+        "Lifespan": "Data not readily available",
+        "Size": "14 cm (excluding tail filaments)",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Very Large",
+        "HabitatSpecialization": "Low",
+        "Population": "High"
+      }
+    },
+    {
+      "Common Name": "Yellow-Billed Babbler",
+      "Scientific Name": "Argya affinis",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Leiothrichidae",
+        "Genus": "Argya",
+        "Species": "A. affinis"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Open woodlands, gardens, scrub, cultivation",
+        "Diet": "Insects, seeds, berries",
+        "Breeding": "Year-round, group nesting in bushes or small trees",
+        "Lifespan": "Data not readily available",
+        "Size": "23-25 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Large",
+        "HabitatSpecialization": "Low",
+        "Population": "High"
+      }
+    },
+    {
+      "Common Name": "Yellow-Crowned Woodpecker",
+      "Scientific Name": "Leiopicus mahrattensis",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Piciformes",
+        "Family": "Picidae",
+        "Genus": "Leiopicus",
+        "Species": "L. mahrattensis"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Open woodlands, scrubland, cultivated areas, gardens",
+        "Diet": "Insects from bark, small fruits",
+        "Breeding": "February-May, nests in tree holes",
+        "Lifespan": "Data not readily available",
+        "Size": "18 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Very Large",
+        "HabitatSpecialization": "Low",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Yellow-Eyed Babbler",
+      "Scientific Name": "Chrysomma sinense",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Passeriformes",
+        "Family": "Sylviidae",
+        "Genus": "Chrysomma",
+        "Species": "C. sinense"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Tall grass, reedbeds, scrubland, cultivated areas",
+        "Diet": "Insects, spiders",
+        "Breeding": "March-September, deep cup-shaped nest in dense vegetation",
+        "Lifespan": "Data not readily available",
+        "Size": "16-17 cm",
+        "Weight": "Data not readily available"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Large",
+        "HabitatSpecialization": "Medium",
+        "Population": "Medium"
+      }
+    },
+    {
+      "Common Name": "Yellow-Footed Green Pigeon",
+      "Scientific Name": "Treron phoenicopterus",
+      "Classification": {
+        "Domain": "Eukaryota",
+        "Kingdom": "Animalia",
+        "Phylum": "Chordata",
+        "Class": "Aves",
+        "Order": "Columbiformes",
+        "Family": "Columbidae",
+        "Genus": "Treron",
+        "Species": "T. phoenicopterus"
+      },
+      "Conservation": {
+        "IUCN": "Least Concern",
+        "IndiaStatus": "Common",
+        "PopulationTrend": "Stable"
+      },
+      "Ecology": {
+        "Habitat": "Deciduous and evergreen forests, orchards, large gardens",
+        "Diet": "Fruits (esp. figs), berries",
+        "Breeding": "March-June, flimsy stick nest in trees",
+        "Lifespan": "Data not readily available",
+        "Size": "27-30 cm",
+        "Weight": "200-250 g"
+      },
+      "StateOfIndiaBirds": {
+        "LongTermTrend": "Stable",
+        "CurrentAnnualTrend": "Stable",
+        "DistributionRangeSize": "Very Large",
+        "HabitatSpecialization": "Low",
+        "Population": "High"
+      }
+    }
+  ]
