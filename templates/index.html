@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bird Sound Classifier</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+        
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        header {
+            text-align: center;
+            margin-bottom: 30px;
+            padding: 20px 0;
+            background-color: #4CAF50;
+            color: white;
+            border-radius: 8px;
+        }
+        
+        h1 {
+            margin: 0;
+            font-size: 2.2em;
+        }
+        
+        .upload-section {
+            background: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            margin-bottom: 30px;
+        }
+        
+        .file-upload {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 20px;
+            border: 2px dashed #ccc;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            transition: all 0.3s;
+        }
+        
+        .file-upload:hover {
+            border-color: #4CAF50;
+        }
+        
+        .file-upload input {
+            display: none;
+        }
+        
+        .file-upload label {
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            border-radius: 4px;
+            cursor: pointer;
+            font-weight: bold;
+            transition: background-color 0.3s;
+        }
+        
+        .file-upload label:hover {
+            background-color: #45a049;
+        }
+        
+        .file-name {
+            margin-top: 10px;
+            font-size: 0.9em;
+            color: #666;
+        }
+        
+        button {
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            font-size: 1em;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+            font-weight: bold;
+            display: block;
+            margin: 0 auto;
+        }
+        
+        button:hover {
+            background-color: #45a049;
+        }
+        
+        button:disabled {
+            background-color: #cccccc;
+            cursor: not-allowed;
+        }
+        
+        .result-section {
+            background: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            display: none;
+        }
+        
+        .result-section h2 {
+            color: #4CAF50;
+            margin-top: 0;
+        }
+        
+        .prediction-card {
+            background-color: #f9f9f9;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+        
+        .confidence-meter {
+            height: 20px;
+            background-color: #e0e0e0;
+            border-radius: 10px;
+            margin: 10px 0;
+            overflow: hidden;
+        }
+        
+        .confidence-level {
+            height: 100%;
+            background-color: #4CAF50;
+            width: 0%;
+            transition: width 1s;
+        }
+        
+        .other-predictions {
+            margin-top: 20px;
+        }
+        
+        .prediction-item {
+            display: flex;
+            justify-content: space-between;
+            padding: 8px 0;
+            border-bottom: 1px solid #eee;
+        }
+        
+        .prediction-item:last-child {
+            border-bottom: none;
+        }
+        
+        .prediction-name {
+            font-weight: bold;
+        }
+        
+        .prediction-value {
+            color: #666;
+        }
+        
+        .loading {
+            display: none;
+            text-align: center;
+            margin: 20px 0;
+        }
+        
+        .spinner {
+            border: 5px solid #f3f3f3;
+            border-top: 5px solid #4CAF50;
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto;
+        }
+        
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        
+        footer {
+            text-align: center;
+            margin-top: 40px;
+            padding: 20px;
+            color: #666;
+            font-size: 0.9em;
+        }
+        
+        @media (max-width: 600px) {
+            .container {
+                padding: 10px;
+            }
+            
+            header {
+                padding: 15px 0;
+            }
+            
+            h1 {
+                font-size: 1.8em;
+            }
+            
+            .upload-section, .result-section {
+                padding: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Bird Sound Classifier</h1>
+            <p>Upload a bird sound recording and our AI will identify the species</p>
+        </header>
+        
+        <div class="upload-section">
+            <h2>Upload Audio File</h2>
+            <p>Supported formats: WAV, MP3, FLAC</p>
+            
+            <div class="file-upload">
+                <input type="file" id="audioFile" accept=".wav,.mp3,.flac">
+                <label for="audioFile">Choose File</label>
+                <div class="file-name" id="fileName">No file selected</div>
+            </div>
+            
+            <button id="predictButton" disabled>Identify Bird</button>
+        </div>
+        
+        <div class="loading" id="loadingIndicator">
+            <div class="spinner"></div>
+            <p>Analyzing the audio...</p>
+        </div>
+        
+        <div class="result-section" id="resultSection">
+            <h2>Prediction Result</h2>
+            
+            <div class="prediction-card">
+                <h3 id="predictionResult">Bird Species</h3>
+                <p>Confidence: <span id="confidenceValue">0%</span></p>
+                <div class="confidence-meter">
+                    <div class="confidence-level" id="confidenceLevel"></div>
+                </div>
+            </div>
+            
+            <div class="other-predictions">
+                <h3>Other Possible Matches</h3>
+                <div id="allPredictions"></div>
+            </div>
+        </div>
+    </div>
+    
+    <footer>
+        <p>Bird Sound Classification System &copy; 2023</p>
+    </footer>
+    
+    <script>
+        document.getElementById('audioFile').addEventListener('change', function(e) {
+            const fileName = e.target.files[0] ? e.target.files[0].name : 'No file selected';
+            document.getElementById('fileName').textContent = fileName;
+            document.getElementById('predictButton').disabled = !e.target.files[0];
+        });
+        
+        document.getElementById('predictButton').addEventListener('click', function() {
+            const fileInput = document.getElementById('audioFile');
+            if (!fileInput.files[0]) return;
+            
+            const formData = new FormData();
+            formData.append('file', fileInput.files[0]);
+            
+            // Show loading indicator
+            document.getElementById('loadingIndicator').style.display = 'block';
+            document.getElementById('resultSection').style.display = 'none';
+            
+            fetch('/predict', {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Network response was not ok');
+                }
+                return response.json();
+            })
+            .then(data => {
+                // Hide loading indicator
+                document.getElementById('loadingIndicator').style.display = 'none';
+                
+                // Display results
+                document.getElementById('predictionResult').textContent = data.prediction;
+                const confidencePercent = Math.round(data.confidence * 100);
+                document.getElementById('confidenceValue').textContent = confidencePercent + '%';
+                document.getElementById('confidenceLevel').style.width = confidencePercent + '%';
+                
+                // Display all predictions
+                const allPredictionsDiv = document.getElementById('allPredictions');
+                allPredictionsDiv.innerHTML = '';
+                
+                // Convert predictions object to array and sort by confidence
+                const predictionsArray = Object.entries(data.all_predictions)
+                    .map(([name, value]) => ({ name, value: Math.round(value * 100) }))
+                    .sort((a, b) => b.value - a.value);
+                
+                // Display top 5 predictions (excluding the top one already shown)
+                predictionsArray.slice(0, 6).forEach(pred => {
+                    if (pred.name === data.prediction) return;
+                    
+                    const predElement = document.createElement('div');
+                    predElement.className = 'prediction-item';
+                    
+                    const nameElement = document.createElement('span');
+                    nameElement.className = 'prediction-name';
+                    nameElement.textContent = pred.name;
+                    
+                    const valueElement = document.createElement('span');
+                    valueElement.className = 'prediction-value';
+                    valueElement.textContent = pred.value + '%';
+                    
+                    predElement.appendChild(nameElement);
+                    predElement.appendChild(valueElement);
+                    allPredictionsDiv.appendChild(predElement);
+                });
+                
+                // Show result section
+                document.getElementById('resultSection').style.display = 'block';
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                document.getElementById('loadingIndicator').style.display = 'none';
+                alert('An error occurred while processing the file. Please try again.');
+            });
+        });
+    </script>
+</body>
+</html>

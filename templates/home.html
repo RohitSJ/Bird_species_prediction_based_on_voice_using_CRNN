@@ -1,0 +1,212 @@
+{% extends "base.html" %}
+
+{% block content %}
+<style>
+    /* Custom styles for the home page */
+    .hero-section {
+        background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+        padding: 4rem 0;
+        border-radius: 15px;
+        margin-bottom: 3rem;
+        position: relative;
+        overflow: hidden;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    }
+    
+    .hero-section::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-image: url("https://images.unsplash.com/photo-1502134249126-9f3755a50d78?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80");
+        background-size: cover;
+        background-position: center;
+        opacity: 0.15;
+    }
+    
+    .hero-title {
+        font-size: 3.5rem;
+        font-weight: 700;
+        color: white;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+        margin-bottom: 1rem;
+        position: relative;
+    }
+    
+    .hero-subtitle {
+        font-size: 1.5rem;
+        color: white;
+        text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+        position: relative;
+    }
+    
+    .option-card {
+        background-color: rgba(255, 255, 255, 0.9);
+        border-radius: 15px;
+        padding: 2.5rem;
+        margin: 1.5rem 0;
+        box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+        transition: all 0.4s cubic-bezier(0.25, 0.8, 0.25, 1);
+        height: 100%;
+        border: 1px solid rgba(255, 255, 255, 0.5);
+        backdrop-filter: blur(5px);
+        position: relative;
+        overflow: hidden;
+    }
+    
+    .option-card:hover {
+        transform: translateY(-10px) scale(1.02);
+        box-shadow: 0 15px 30px rgba(0, 0, 0, 0.15);
+    }
+    
+    .option-card::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 5px;
+        background: linear-gradient(90deg, #4facfe 0%, #00f2fe 100%);
+    }
+    
+    .option-icon {
+        font-size: 4rem;
+        margin-bottom: 1.5rem;
+        color: #4facfe;
+        transition: all 0.3s ease;
+    }
+    
+    .option-card:hover .option-icon {
+        transform: scale(1.1);
+        color: #00f2fe;
+    }
+    
+    .option-title {
+        color: #2a5c7a;
+        font-size: 1.8rem;
+        font-weight: 600;
+        margin-bottom: 1rem;
+    }
+    
+    .option-description {
+        color: #666;
+        font-size: 1.1rem;
+    }
+    
+    .bird-decoration {
+        position: absolute;
+        width: 100px;
+        height: 100px;
+        opacity: 0.1;
+        z-index: 0;
+    }
+    
+    .bird-1 {
+        top: 20%;
+        left: 5%;
+        background-image: url("https://cdn-icons-png.flaticon.com/512/685/685655.png");
+        background-size: contain;
+        background-repeat: no-repeat;
+        animation: float 6s ease-in-out infinite;
+    }
+    
+    .bird-2 {
+        bottom: 15%;
+        right: 8%;
+        background-image: url("https://cdn-icons-png.flaticon.com/512/685/685655.png");
+        background-size: contain;
+        background-repeat: no-repeat;
+        animation: float 8s ease-in-out infinite 2s;
+    }
+    
+    @keyframes float {
+        0% { transform: translateY(0) rotate(0deg); }
+        50% { transform: translateY(-20px) rotate(5deg); }
+        100% { transform: translateY(0) rotate(0deg); }
+    }
+    
+    .title-text {
+        color: #2a5c7a;
+        text-align: center;
+        margin-bottom: 2rem;
+        font-weight: 500;
+        font-size: 1.5rem;
+        position: relative;
+    }
+    
+    .title-text::after {
+        content: "";
+        display: block;
+        width: 100px;
+        height: 3px;
+        background: linear-gradient(90deg, #4facfe 0%, #00f2fe 100%);
+        margin: 1rem auto;
+        border-radius: 3px;
+    }
+    
+    .container {
+        position: relative;
+    }
+    
+    /* Responsive adjustments */
+    @media (max-width: 768px) {
+        .hero-title {
+            font-size: 2.5rem;
+        }
+        
+        .hero-subtitle {
+            font-size: 1.2rem;
+        }
+        
+        .option-card {
+            padding: 1.5rem;
+        }
+        
+        .option-icon {
+            font-size: 3rem;
+        }
+        
+        .option-title {
+            font-size: 1.5rem;
+        }
+    }
+</style>
+
+<div class="hero-section text-center">
+    <div class="bird-decoration bird-1"></div>
+    <div class="bird-decoration bird-2"></div>
+    <h1 class="hero-title">Bird Species Identifier</h1>
+    <p class="hero-subtitle">Discover the beauty of nature through bird identification</p>
+</div>
+
+<h3 class="title-text">Select identification method</h3>
+
+<div class="row">
+    <div class="col-md-6">
+        <a href="{{ url_for('voice') }}" class="text-decoration-none">
+            <div class="option-card">
+                <div class="option-icon">🎤</div>
+                <h3 class="option-title">Voice Identification</h3>
+                <p class="option-description">Identify bird species by analyzing their unique songs and calls with our advanced audio recognition system.</p>
+            </div>
+        </a>
+    </div>
+    <div class="col-md-6">
+        <a href="{{ url_for('image_upload') }}" class="text-decoration-none">
+            <div class="option-card">
+                <div class="option-icon">📷</div>
+                <h3 class="option-title">Image Identification</h3>
+                <p class="option-description">Upload a photo of a bird and our AI will identify the species based on visual characteristics.</p>
+            </div>
+        </a>
+    </div>
+</div>
+
+<div class="row mt-4">
+    <div class="col-12 text-center">
+        <p class="text-muted">More identification methods coming soon...</p>
+    </div>
+</div>
+{% endblock %}
