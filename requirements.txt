@@ -5,3 +5,7 @@ librosa
 numpy
 Pillow
 scikit-learn
+wikipedia
+tqdm
+pydub
+soundfile
