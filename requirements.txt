@@ -10,3 +10,5 @@ wikipedia
 tqdm
 pydub
 soundfile
+werkzeug
+keras
