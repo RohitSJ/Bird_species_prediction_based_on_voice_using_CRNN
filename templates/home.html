@@ -150,6 +150,92 @@
         position: relative;
     }
     
+    /* Footer Styles */
+    .footer {
+        background: linear-gradient(135deg, #2c3e50 0%, #4ca1af 100%);
+        color: white;
+        padding: 2rem 0;
+        margin-top: 3rem;
+        border-radius: 15px 15px 0 0;
+        position: relative;
+        overflow: hidden;
+    }
+    
+    .footer::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        height: 3px;
+        background: linear-gradient(90deg, #4facfe 0%, #00f2fe 100%);
+    }
+    
+    .footer-title {
+        font-size: 1.5rem;
+        font-weight: 600;
+        margin-bottom: 1.5rem;
+        text-align: center;
+        position: relative;
+    }
+    
+    .footer-title::after {
+        content: "";
+        display: block;
+        width: 60px;
+        height: 2px;
+        background: rgba(255, 255, 255, 0.5);
+        margin: 0.5rem auto;
+    }
+    
+    .team-list {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 1.5rem;
+        margin-bottom: 2rem;
+    }
+    
+    .team-member {
+        background: rgba(255, 255, 255, 0.1);
+        backdrop-filter: blur(5px);
+        padding: 1rem 1.5rem;
+        border-radius: 10px;
+        text-align: center;
+        min-width: 200px;
+        transition: all 0.3s ease;
+        border: 1px solid rgba(255, 255, 255, 0.2);
+    }
+    
+    .team-member:hover {
+        transform: translateY(-5px);
+        background: rgba(255, 255, 255, 0.2);
+    }
+    
+    .team-member-name {
+        font-weight: 500;
+        margin-bottom: 0.2rem;
+    }
+    
+    .team-member-role {
+        font-size: 0.9rem;
+        opacity: 0.8;
+    }
+    
+    .guided-by {
+        text-align: center;
+        margin-top: 1.5rem;
+        font-style: italic;
+        opacity: 0.9;
+    }
+    
+    .copyright {
+        text-align: center;
+        margin-top: 2rem;
+        font-size: 0.9rem;
+        opacity: 0.7;
+    }
+    
     /* Responsive adjustments */
     @media (max-width: 768px) {
         .hero-title {
@@ -170,6 +256,17 @@
         
         .option-title {
             font-size: 1.5rem;
+        }
+        
+        .team-list {
+            flex-direction: column;
+            align-items: center;
+            gap: 1rem;
+        }
+        
+        .team-member {
+            width: 100%;
+            max-width: 300px;
         }
     }
 </style>
@@ -204,9 +301,37 @@
     </div>
 </div>
 
-<div class="row mt-4">
-    <div class="col-12 text-center">
-        <p class="text-muted">More identification methods coming soon...</p>
+<!-- Footer Section -->
+<footer class="footer">
+    <div class="container">
+        <h3 class="footer-title">Project Team</h3>
+        
+        <div class="team-list">
+            <div class="team-member">
+                <div class="team-member-name">Sanyam Kudale</div>
+            
+            </div>
+            <div class="team-member">
+                <div class="team-member-name">Rohit Jadhav</div>
+                
+            </div>
+            <div class="team-member">
+                <div class="team-member-name">Ashish Kumar Pandey</div>
+                
+            </div>
+            <div class="team-member">
+                <div class="team-member-name">Swaraj Giri</div>
+                
+            </div>
+        </div>
+        
+        <div class="guided-by">
+            Guided by: <strong>Dr. (Mrs.) S. K. Wagh</strong>
+        </div>
+        
+        <div class="copyright">
+            &copy; 2025 Bird Species Identifier. All rights reserved.
+        </div>
     </div>
-</div>
+</footer>
 {% endblock %}
