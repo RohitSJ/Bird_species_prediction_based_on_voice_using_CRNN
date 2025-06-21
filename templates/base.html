@@ -1,0 +1,567 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}Bird Species Identifier - AI-Powered Bird Recognition{% endblock %}</title>
+    
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    
+    <!-- Bootstrap Icons -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
+    
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    
+    <!-- Favicon -->
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🐦</text></svg>">
+    
+    <style>
+        :root {
+            --primary: #4a8fe7;
+            --primary-light: #7db1ff;
+            --secondary: #5cb85c;
+            --accent: #ff914d;
+            --dark: #2c3e50;
+            --light: #f8f9fa;
+            --success: #28a745;
+            --warning: #ffc107;
+            --danger: #dc3545;
+        }
+
+        /* Base Styles */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            min-height: 100vh;
+            position: relative;
+            overflow-x: hidden;
+            background: linear-gradient(135deg, #f5f7fa 0%, #e4f0f8 100%);
+            color: var(--dark);
+        }
+
+        /* Nature Background */
+        body::before {
+            content: '';
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: url('https://images.unsplash.com/photo-1470114716159-e389f8712fda?q=80&w=3000') center/cover no-repeat;
+            opacity: 0.08;
+            z-index: -3;
+            animation: subtleZoom 30s ease-in-out infinite alternate;
+        }
+
+        @keyframes subtleZoom {
+            0% { transform: scale(1); }
+            100% { transform: scale(1.05); }
+        }
+
+        /* Navigation Bar */
+        .navbar {
+            background: linear-gradient(135deg, #2c3e50 0%, #4ca1af 100%);
+            box-shadow: 0 4px 20px rgba(74, 143, 231, 0.3);
+            padding: 1rem 0;
+            transition: all 0.3s ease;
+        }
+
+        .navbar-brand {
+            font-weight: 700;
+            font-size: 1.5rem;
+            color: white !important;
+        }
+
+        .navbar-nav .nav-link {
+            color: rgba(255, 255, 255, 0.9) !important;
+            font-weight: 500;
+            margin: 0 0.5rem;
+            padding: 0.5rem 1rem !important;
+            border-radius: 25px;
+            transition: all 0.3s ease;
+        }
+
+        .navbar-nav .nav-link:hover {
+            background: rgba(255, 255, 255, 0.2);
+            color: white !important;
+            transform: translateY(-2px);
+        }
+
+        .navbar-nav .nav-link.active {
+            background: rgba(255, 255, 255, 0.25);
+        }
+
+        /* Main Container */
+        .main-container {
+            min-height: calc(100vh - 80px);
+            padding: 2rem 0;
+            position: relative;
+        }
+
+        /* Cards */
+        .option-card {
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 20px;
+            padding: 2.5rem;
+            margin: 1.5rem 0;
+            box-shadow: 0 8px 30px rgba(74, 143, 231, 0.15);
+            transition: all 0.4s ease;
+            text-align: center;
+            height: 100%;
+            border: none;
+            overflow: hidden;
+            cursor: pointer;
+        }
+
+        .option-card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 15px 40px rgba(74, 143, 231, 0.25);
+        }
+
+        .option-title {
+            color: var(--primary);
+            font-size: 1.8rem;
+            font-weight: 700;
+            margin-bottom: 1rem;
+        }
+
+        .option-icon {
+            font-size: 4rem;
+            margin-bottom: 1.5rem;
+            display: block;
+            color: var(--accent);
+            transition: all 0.3s ease;
+        }
+
+        .option-card:hover .option-icon {
+            animation: bounce 0.5s ease;
+        }
+
+        @keyframes bounce {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-10px); }
+        }
+
+        .option-description {
+            color: #6c757d;
+            font-size: 1.1rem;
+            line-height: 1.6;
+        }
+
+        /* Titles */
+        .title-text {
+            color: var(--dark);
+            text-align: center;
+            margin-bottom: 3rem;
+            font-weight: 600;
+            font-size: 2.5rem;
+            position: relative;
+            animation: fadeInUp 1s ease-out;
+        }
+
+        .title-text::after {
+            content: "";
+            display: block;
+            width: 100px;
+            height: 4px;
+            background: linear-gradient(90deg, var(--primary), var(--accent));
+            margin: 1rem auto;
+            border-radius: 4px;
+        }
+
+        /* Result Cards */
+        .result-card {
+            background: white;
+            border-radius: 15px;
+            padding: 2rem;
+            margin-bottom: 1.5rem;
+            box-shadow: 0 8px 30px rgba(74, 143, 231, 0.1);
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+            border: none;
+        }
+
+        .result-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 4px;
+            background: linear-gradient(90deg, var(--primary), var(--accent));
+            border-radius: 15px 15px 0 0;
+        }
+
+        .result-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 12px 40px rgba(74, 143, 231, 0.2);
+        }
+
+        .result-card h3 {
+            color: var(--primary);
+            margin-bottom: 1rem;
+        }
+
+        .result-card p {
+            color: #6c757d;
+            margin-bottom: 0;
+        }
+
+        /* Buttons */
+        .btn-primary {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--primary-light) 100%);
+            border: none;
+            border-radius: 25px;
+            padding: 0.75rem 2rem;
+            font-weight: 600;
+            color: white;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(74, 143, 231, 0.2);
+        }
+
+        .btn-primary:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 25px rgba(74, 143, 231, 0.3);
+            animation: pulse 1.5s infinite;
+        }
+
+        @keyframes pulse {
+            0% { box-shadow: 0 0 0 0 rgba(74, 143, 231, 0.7); }
+            70% { box-shadow: 0 0 0 10px rgba(74, 143, 231, 0); }
+            100% { box-shadow: 0 0 0 0 rgba(74, 143, 231, 0); }
+        }
+
+        .btn-secondary {
+            background: white;
+            border: 1px solid var(--primary);
+            border-radius: 25px;
+            padding: 0.75rem 2rem;
+            font-weight: 600;
+            color: var(--primary);
+            transition: all 0.3s ease;
+        }
+
+        .btn-secondary:hover {
+            background: var(--primary-light);
+            color: white;
+            transform: translateY(-3px);
+        }
+
+        /* Loading Spinner */
+        .loading-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(255, 255, 255, 0.95);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            z-index: 9999;
+            opacity: 1;
+            transition: opacity 0.5s ease;
+        }
+
+        .loading-overlay.hidden {
+            opacity: 0;
+            pointer-events: none;
+        }
+
+        .loading-bird {
+            width: 80px;
+            height: 80px;
+            border: 6px solid rgba(74, 143, 231, 0.2);
+            border-top: 6px solid var(--primary);
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin-bottom: 2rem;
+        }
+
+        .loading-text {
+            color: var(--dark);
+            font-size: 1.2rem;
+            font-weight: 600;
+            text-align: center;
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        /* Floating Action Button */
+        .fab {
+            position: fixed;
+            bottom: 2rem;
+            right: 2rem;
+            width: 60px;
+            height: 60px;
+            background: linear-gradient(135deg, var(--accent) 0%, #ffaa6b 100%);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-size: 1.5rem;
+            box-shadow: 0 8px 25px rgba(255, 145, 77, 0.3);
+            transition: all 0.3s ease;
+            z-index: 1000;
+            border: none;
+            cursor: pointer;
+        }
+
+        .fab:hover {
+            transform: scale(1.1);
+            box-shadow: 0 12px 35px rgba(255, 145, 77, 0.4);
+        }
+
+        /* Animations */
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        /* Form Elements */
+        .form-control {
+            border-radius: 12px;
+            padding: 0.75rem 1rem;
+            border: 1px solid #dee2e6;
+        }
+
+        .form-control:focus {
+            border-color: var(--primary-light);
+            box-shadow: 0 0 0 0.25rem rgba(74, 143, 231, 0.25);
+        }
+
+        /* Alert Styles */
+        .alert {
+            border-radius: 12px;
+            border-left: 4px solid transparent;
+        }
+
+        .alert-success {
+            background-color: rgba(40, 167, 69, 0.1);
+            border-left-color: var(--success);
+            color: #155724;
+        }
+
+        .alert-danger {
+            background-color: rgba(220, 53, 69, 0.1);
+            border-left-color: var(--danger);
+            color: #721c24;
+        }
+
+        .alert-warning {
+            background-color: rgba(255, 193, 7, 0.1);
+            border-left-color: var(--warning);
+            color: #856404;
+        }
+
+        .alert-info {
+            background-color: rgba(23, 162, 184, 0.1);
+            border-left-color: #17a2b8;
+            color: #0c5460;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            .title-text {
+                font-size: 2rem;
+            }
+
+            .option-card {
+                padding: 2rem;
+                margin: 1rem 0;
+            }
+
+            .option-icon {
+                font-size: 3rem;
+            }
+
+            .option-title {
+                font-size: 1.5rem;
+            }
+
+            .fab {
+                bottom: 1rem;
+                right: 1rem;
+                width: 50px;
+                height: 50px;
+                font-size: 1.2rem;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .title-text {
+                font-size: 1.8rem;
+            }
+
+            .option-card {
+                padding: 1.5rem;
+            }
+
+            .option-icon {
+                font-size: 2.5rem;
+            }
+
+            .option-title {
+                font-size: 1.3rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Loading Overlay -->
+    <div class="loading-overlay" id="loadingOverlay">
+        <div class="loading-bird"></div>
+        <div class="loading-text">
+            <div>🐦 Loading Bird Identification System</div>
+            <small style="opacity: 0.8; margin-top: 0.5rem; display: block;">Preparing AI models...</small>
+        </div>
+    </div>
+
+    <!-- Navigation Bar -->
+    <nav class="navbar navbar-expand-lg">
+        <div class="container">
+            <a class="navbar-brand" href="/">
+                <i class="bi bi-binoculars me-2"></i>
+                Bird Species Identifier
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <i class="bi bi-list" style="color: white; font-size: 1.5rem;"></i>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/">
+                            <i class="bi bi-house me-1"></i>Home
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/voice">
+                            <i class="bi bi-mic me-1"></i>Voice ID
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/image_upload">
+                            <i class="bi bi-camera me-1"></i>Image ID
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <div class="main-container">
+        <div class="container page-content">
+            {% block content %}{% endblock %}
+        </div>
+    </div>
+
+    <!-- Floating Action Button -->
+    <button class="fab" onclick="scrollToTop()" title="Back to Top">
+        <i class="bi bi-arrow-up"></i>
+    </button>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+
+    <script>
+        // Loading Animation
+        window.addEventListener('load', function() {
+            setTimeout(function() {
+                var loadingOverlay = document.getElementById('loadingOverlay');
+                if (loadingOverlay) {
+                    loadingOverlay.classList.add('hidden');
+                }
+            }, 1500);
+        });
+
+        // Smooth Scroll to Top
+        function scrollToTop() {
+            window.scrollTo({
+                top: 0,
+                behavior: 'smooth'
+            });
+        }
+
+        // Enhanced Navigation
+        document.addEventListener('DOMContentLoaded', function() {
+            // Add active class to current page
+            var currentPath = window.location.pathname;
+            var navLinks = document.querySelectorAll('.nav-link');
+            
+            navLinks.forEach(function(link) {
+                if (link.getAttribute('href') === currentPath) {
+                    link.classList.add('active');
+                }
+            });
+
+            // Smooth page transitions
+            var links = document.querySelectorAll('a[href^="/"]');
+            links.forEach(function(link) {
+                link.addEventListener('click', function(e) {
+                    if (this.hostname === window.location.hostname) {
+                        e.preventDefault();
+                        var url = this.getAttribute('href');
+                        
+                        // Show loading effect
+                        document.getElementById('loadingOverlay').classList.remove('hidden');
+                        
+                        setTimeout(function() {
+                            window.location.href = url;
+                        }, 300);
+                    }
+                });
+            });
+
+            // Animate elements on scroll
+            var animateOnScroll = function() {
+                var elements = document.querySelectorAll('.option-card, .result-card');
+                
+                elements.forEach(function(element) {
+                    var elementPosition = element.getBoundingClientRect().top;
+                    var screenPosition = window.innerHeight / 1.2;
+                    
+                    if (elementPosition < screenPosition) {
+                        element.style.opacity = '1';
+                        element.style.transform = 'translateY(0)';
+                    }
+                });
+            };
+
+            // Set initial state
+            var cards = document.querySelectorAll('.option-card, .result-card');
+            cards.forEach(function(card, index) {
+                card.style.opacity = '0';
+                card.style.transform = 'translateY(30px)';
+                card.style.transition = 'opacity 0.6s ease ' + (index * 0.1) + 's, transform 0.6s ease ' + (index * 0.1) + 's';
+            });
+
+            // Trigger on load and scroll
+            animateOnScroll();
+            window.addEventListener('scroll', animateOnScroll);
+        });
+    </script>
+
+    {% block scripts %}{% endblock %}
+</body>
+</html>
