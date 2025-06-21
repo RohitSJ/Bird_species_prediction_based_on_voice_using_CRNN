@@ -8,13 +8,13 @@ A comprehensive deep learning system that classifies bird species using both aud
 
 ### 🎙️ Audio Classification Demo
 <div align="center">
-  <img src="demos/model1.gif" width="700" alt="Audio Classification Demo">
+  <img src="demos/model1.MP4" width="700" alt="Audio Classification Demo">
   <p><em>Upload bird audio → AI processes sound → Instant species identification with confidence scores</em></p>
 </div>
 
 ### 🖼️ Image Classification Demo  
 <div align="center">
-  <img src="demos/model2.gif" width="700" alt="Image Classification Demo">
+  <img src="demos/model2.MP4" width="700" alt="Image Classification Demo">
   <p><em>Upload bird image → AI analyzes features → Species prediction with scientific information</em></p>
 </div>
 
@@ -66,28 +66,28 @@ http://localhost:5000
 ## 📁 Project Structure
 
 
-\`\`\`
+```
 bird-species-prediction/
-├── 🎬 demos/                      # Demo videos and GIFs
+├──  demos/                      # Demo videos and GIFs
 │   ├── audio_demo.gif             # Audio classification demo
 │   └── image_demo.gif             # Image classification demo
-├── 📄 app.py                      # Flask web application
-├── 🎵 Audio_model_training.py     # CRNN audio model training
-├── 🖼️ Image_model_training.py     # VGG16 image model training
-├── 📋 BirdInfo.json               # Bird species database
-├── 📦 models/
+├──  app.py                      # Flask web application
+├──  Audio_model_training.py     # CRNN audio model training
+├──  Image_model_training.py     # VGG16 image model training
+├──  BirdInfo.json               # Bird species database
+├──  models/
 │   ├── best_bird_model.h5         # Trained CRNN model
 │   ├── bird_classifier.h5         # Trained VGG16 model
 │   └── class_indices.pkl          # Class mappings
-├── 🎨 static/
+├──  static/
 │   ├── uploads/                   # User uploads
 │   └── training_history.png       # Training plots
-├── 🌐 templates/
+├──  templates/
 │   ├── home.html                  # Landing page
 │   ├── voice.html                 # Audio interface
 │   └── image.html                 # Image interface
-└── 📋 requirements.txt            # Dependencies
-\`\`\`
+└──  requirements.txt            # Dependencies
+```
 ---
 
 ## 🎯 How It Works
