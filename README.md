@@ -44,21 +44,20 @@ A comprehensive deep learning system that classifies bird species using both aud
 ## 🎯 Quick Start
 
 ### 1️⃣ Clone & Setup
-\`\`\`bash
+
 git clone https://github.com/yourusername/bird-species-prediction.git
 cd bird-species-prediction
 pip install -r requirements.txt
-\`\`\`
 
 ### 2️⃣ Run the Application
-\`\`\`bash
+
 python app.py
-\`\`\`
+
 
 ### 3️⃣ Open in Browser
-\`\`\`
+
 http://localhost:5000
-\`\`\`
+
 
 **That's it! Start uploading bird audio files or images to see the AI in action! 🚀**
 
@@ -66,7 +65,7 @@ http://localhost:5000
 
 ## 📁 Project Structure
 
-\`\`\`
+
 bird-species-prediction/
 ├── 🎬 demos/                      # Demo videos and GIFs
 │   ├── audio_demo.gif             # Audio classification demo
@@ -87,25 +86,25 @@ bird-species-prediction/
 │   ├── voice.html                 # Audio interface
 │   └── image.html                 # Image interface
 └── 📋 requirements.txt            # Dependencies
-\`\`\`
+
 
 ---
 
 ## 🎯 How It Works
 
 ### 🔊 Audio Classification Pipeline
-\`\`\`
+
 Bird Audio → Mel-Spectrogram → CRNN Model → Species Prediction
      ↓              ↓              ↓              ↓
   .wav/.mp3    Feature Maps    BiLSTM+Attention   Confidence Score
-\`\`\`
+
 
 ### 🖼️ Image Classification Pipeline  
-\`\`\`
+
 Bird Image → Preprocessing → VGG16 Model → Species Prediction
      ↓            ↓             ↓             ↓
   .jpg/.png   224x224 RGB   Transfer Learning  Top-5 Results
-\`\`\`
+
 
 ---
 
@@ -139,14 +138,14 @@ Bird Image → Preprocessing → VGG16 Model → Species Prediction
 ## 🔗 API Usage
 
 ### Audio Prediction
-\`\`\`bash
+
 curl -X POST -F "file=@bird_sound.wav" http://localhost:5000/predict_voice
-\`\`\`
+
 
 ### Image Prediction
-\`\`\`bash
+
 curl -X POST -F "file=@bird_image.jpg" http://localhost:5000/predict_image
-\`\`\`
+
 
 ### Response Format
 \`\`\`json
@@ -168,14 +167,14 @@ curl -X POST -F "file=@bird_image.jpg" http://localhost:5000/predict_image
 ## 🧠 Model Training
 
 ### Train Audio Model (CRNN)
-\`\`\`bash
+
 python Audio_model_training.py
-\`\`\`
+
 
 ### Train Image Model (VGG16)  
-\`\`\`bash
+
 python Image_model_training.py
-\`\`\`
+
 
 ---
 
