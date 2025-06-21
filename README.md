@@ -45,19 +45,20 @@ A comprehensive deep learning system that classifies bird species using both aud
 
 ### 1️⃣ Clone & Setup
 
+```
 git clone https://github.com/yourusername/bird-species-prediction.git
 cd bird-species-prediction
 pip install -r requirements.txt
-
+```
 ### 2️⃣ Run the Application
-
+```
 python app.py
-
+```
 
 ### 3️⃣ Open in Browser
-
+```
 http://localhost:5000
-
+```
 
 **That's it! Start uploading bird audio files or images to see the AI in action! 🚀**
 
@@ -167,14 +168,14 @@ curl -X POST -F "file=@bird_image.jpg" http://localhost:5000/predict_image
 ## 🧠 Model Training
 
 ### Train Audio Model (CRNN)
-
+```
 python Audio_model_training.py
-
+```
 
 ### Train Image Model (VGG16)  
-
+```
 python Image_model_training.py
-
+```
 
 ---
 
