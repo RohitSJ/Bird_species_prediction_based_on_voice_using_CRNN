@@ -66,6 +66,7 @@ http://localhost:5000
 ## 📁 Project Structure
 
 
+\`\`\`
 bird-species-prediction/
 ├── 🎬 demos/                      # Demo videos and GIFs
 │   ├── audio_demo.gif             # Audio classification demo
@@ -86,8 +87,7 @@ bird-species-prediction/
 │   ├── voice.html                 # Audio interface
 │   └── image.html                 # Image interface
 └── 📋 requirements.txt            # Dependencies
-
-
+\`\`\`
 ---
 
 ## 🎯 How It Works
