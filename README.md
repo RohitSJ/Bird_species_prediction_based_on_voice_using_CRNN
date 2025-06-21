@@ -8,7 +8,10 @@ A comprehensive deep learning system that classifies bird species using both aud
 
 ### 🎙️ Audio Classification Demo
 <div align="center">
-  <img src="demo/Media1.mp4 width="700" alt="Audio Classification Demo">
+  <video width="700" controls>
+    <source src="demo/Media1.mp4" type="video/mp4">
+    <p>Your browser does not support the video tag. <a href="demo/Media1.mp4">Click here to download the video</a></p>
+  </video>
   <p><em>Upload bird audio → AI processes sound → Instant species identification with confidence scores</em></p>
 </div>
 
