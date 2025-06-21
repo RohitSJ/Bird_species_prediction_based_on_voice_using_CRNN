@@ -8,7 +8,7 @@ A comprehensive deep learning system that classifies bird species using both aud
 
 ### 🎙️ Audio Classification Demo
 <div align="center">
-  <img src="demos/model1.MP4" width="700" alt="Audio Classification Demo">
+  <img src="demos/Media1.mp4 width="700" alt="Audio Classification Demo">
   <p><em>Upload bird audio → AI processes sound → Instant species identification with confidence scores</em></p>
 </div>
 
@@ -94,18 +94,18 @@ bird-species-prediction/
 ## 🎯 How It Works
 
 ### 🔊 Audio Classification Pipeline
-
+```
 Bird Audio → Mel-Spectrogram → CRNN Model → Species Prediction
      ↓              ↓              ↓              ↓
   .wav/.mp3    Feature Maps    BiLSTM+Attention   Confidence Score
-
+```
 
 ### 🖼️ Image Classification Pipeline  
-
+```
 Bird Image → Preprocessing → VGG16 Model → Species Prediction
      ↓            ↓             ↓             ↓
   .jpg/.png   224x224 RGB   Transfer Learning  Top-5 Results
-
+```
 
 ---
 
@@ -122,7 +122,7 @@ Bird Image → Preprocessing → VGG16 Model → Species Prediction
 
 ### 📈 Training Results
 <div align="center">
-  <img src="static/training_history.png" width="600" alt="Training History">
+  <img src="demo/Image_training_history.png" width="600" alt="Training History">
 </div>
 
 ---
