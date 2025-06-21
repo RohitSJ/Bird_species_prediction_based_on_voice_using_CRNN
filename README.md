@@ -201,6 +201,7 @@ SAMPLE_RATE = 22050
 N_MELS = 128
 HOP_LENGTH = 512
 N_FFT = 2048
+```
 ---
 ## 👨‍💻 Project Contributors
 
