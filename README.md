@@ -14,7 +14,7 @@ A comprehensive deep learning system that classifies bird species using both aud
 
 ### 🖼️ Image Classification Demo  
 <div align="center">
-  <img src="demo/Media2.mp4" width="700" alt="Image Classification Demo">
+  <img src="demo/image_demo.gif" width="700" alt="Image Classification Demo">
   <p><em>Upload bird image → AI analyzes features → Species prediction with scientific information</em></p>
 </div>
 
@@ -135,6 +135,30 @@ Bird Image → Preprocessing → VGG16 Model → Species Prediction
 - **🌍 Coverage**: Songbirds, Raptors, Waterbirds, Game Birds, Exotic Species
 
 ---
+## 📦 Dataset & Review Paper Access
+
+This project is based on a **custom-built dataset** created by our team for academic purposes. If you would like access to the dataset or our detailed review paper, feel free to contact us.
+
+📧 **Contact Email-1:** sanyamkudale@gmail.com  
+📄 **Review Paper & Dataset Request:** [Click to Email](mailto:sanyamkudale@gmail.com?subject=Requesting Dataset and Review Paper)
+
+📧 **Contact Email-2:** rohitsjadhav288@gmail.com
+📄 **Review Paper & Dataset Request:** [Click to Email](mailto:rohitsjadhav288@gmail.com?subject=Requesting Dataset and Review Paper)
+
+---
+
+## 👨‍💻 Project Contributors
+
+| Name              | Role                | Profile                           |
+|-------------------|---------------------|------------------------------------|
+| Sanyam Kudale     | Team Leader, Developer | [GitHub](https://github.com/Shehanshha) · [LinkedIn](www.linkedin.com/in/sanyam-kudale-ba593b245) |
+| Rohit Jadhav     | Data Collection,Documentation      | [GitHub](https://github.com/member2) · [LinkedIn](https://linkedin.com/in/member2) |
+| Ashish Kumar Pandey     | Model Development    | [GitHub](https://github.com/member3) · [LinkedIn](https://linkedin.com/in/member3) |
+| Swaraj Giri     | Web Integration      | [GitHub](https://github.com/member4) · [LinkedIn](https://linkedin.com/in/member4) |
+
+---
+
+> 🎓 This project was developed as part of our final year academic work. We are happy to collaborate or provide insights to researchers and students working on similar topics.
 
 ## 🔗 API Usage
 
@@ -147,21 +171,6 @@ curl -X POST -F "file=@bird_sound.wav" http://localhost:5000/predict_voice
 
 curl -X POST -F "file=@bird_image.jpg" http://localhost:5000/predict_image
 
-
-### Response Format
-\`\`\`json
-{
-  "prediction": "Indian Robin",
-  "confidence": 0.92,
-  "scientific_name": "Copsychus fulicatus",
-  "wiki_summary": "The Indian robin is a species of bird...",
-  "wiki_image": "https://upload.wikimedia.org/...jpg",
-  "top_predictions": [
-    {"species": "Indian Robin", "confidence": 0.92},
-    {"species": "Oriental Magpie Robin", "confidence": 0.05}
-  ]
-}
-\`\`\`
 
 ---
 
