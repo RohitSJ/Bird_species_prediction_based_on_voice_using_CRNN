@@ -208,8 +208,8 @@ N_FFT = 2048
 | Name              | Role                | Profile                           |
 |-------------------|---------------------|------------------------------------|
 | Sanyam Kudale     | Team Leader, Developer | [GitHub](https://github.com/Shehanshha) · [LinkedIn](www.linkedin.com/in/sanyam-kudale-ba593b245) |
-| Rohit Jadhav     | Data Collection,Documentation      | [GitHub](https://github.com/member2) · [LinkedIn](https://linkedin.com/in/member2) |
-| Ashish Kumar Pandey     | Model Development    | [GitHub](https://github.com/member3) · [LinkedIn](https://linkedin.com/in/member3) |
+| Rohit Jadhav     | Data Collection,Training      | [GitHub](https://github.com/RohitSJ) · [LinkedIn](https://www.linkedin.com/in/rohit-jadhav-292844231/) |
+| Ashish Kumar Pandey     | Model Development    | [GitHub](https://github.com/member3) · [LinkedIn](https://www.linkedin.com/in/ashish2563/) |
 | Swaraj Giri     | Web Integration      | [GitHub](https://github.com/member4) · [LinkedIn](https://linkedin.com/in/member4) |
 
 ---
