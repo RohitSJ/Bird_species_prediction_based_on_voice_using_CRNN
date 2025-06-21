@@ -147,18 +147,6 @@ This project is based on a **custom-built dataset** created by our team for acad
 
 ---
 
-## 👨‍💻 Project Contributors
-
-| Name              | Role                | Profile                           |
-|-------------------|---------------------|------------------------------------|
-| Sanyam Kudale     | Team Leader, Developer | [GitHub](https://github.com/Shehanshha) · [LinkedIn](www.linkedin.com/in/sanyam-kudale-ba593b245) |
-| Rohit Jadhav     | Data Collection,Documentation      | [GitHub](https://github.com/member2) · [LinkedIn](https://linkedin.com/in/member2) |
-| Ashish Kumar Pandey     | Model Development    | [GitHub](https://github.com/member3) · [LinkedIn](https://linkedin.com/in/member3) |
-| Swaraj Giri     | Web Integration      | [GitHub](https://github.com/member4) · [LinkedIn](https://linkedin.com/in/member4) |
-
----
-
-> 🎓 This project was developed as part of our final year academic work. We are happy to collaborate or provide insights to researchers and students working on similar topics.
 
 ## 🔗 API Usage
 
@@ -213,3 +201,16 @@ SAMPLE_RATE = 22050
 N_MELS = 128
 HOP_LENGTH = 512
 N_FFT = 2048
+---
+## 👨‍💻 Project Contributors
+
+| Name              | Role                | Profile                           |
+|-------------------|---------------------|------------------------------------|
+| Sanyam Kudale     | Team Leader, Developer | [GitHub](https://github.com/Shehanshha) · [LinkedIn](www.linkedin.com/in/sanyam-kudale-ba593b245) |
+| Rohit Jadhav     | Data Collection,Documentation      | [GitHub](https://github.com/member2) · [LinkedIn](https://linkedin.com/in/member2) |
+| Ashish Kumar Pandey     | Model Development    | [GitHub](https://github.com/member3) · [LinkedIn](https://linkedin.com/in/member3) |
+| Swaraj Giri     | Web Integration      | [GitHub](https://github.com/member4) · [LinkedIn](https://linkedin.com/in/member4) |
+
+---
+
+> 🎓 This project was developed as part of our final year academic work. We are happy to collaborate or provide insights to researchers and students working on similar topics.
